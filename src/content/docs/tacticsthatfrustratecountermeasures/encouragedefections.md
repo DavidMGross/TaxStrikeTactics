@@ -1,0 +1,93 @@
+---
+title: Encourage Defection in the Tax Bureaucracy
+description: Some tax resistance campaigns have encouraged resignations, defections, and goldbricking among those responsible for carrying out the tax laws.
+sidebar:
+  order: 16
+---
+One way a tax resistance campaign can get a leg up is with the help of sympathizers within the tax collection bureaucracy itself.
+After all, they’re often taxpayers too, and may ultimately feel more loyalty to their fellow-subjects than to the government they’re subjected to, even if it’s also the government they work for.
+
+To this end, some tax resistance campaigns have encouraged resignations, defections, and goldbricking among those responsible for carrying out the tax laws.
+
+In this, they’re following the lead of Thoreau, who wrote:
+
+> If the tax-gatherer, or any other public officer, asks me, as one has done, “But what shall I do?” my answer is, “If you really wish to do anything, resign your office.”
+
+## Bardoli Tax Strike
+
+The <i>patels</i> (village headmen) in Bardoli knew that the government would call on them to help seize property from resisters in their villages for overdue taxes.
+Tax strike commander Vallabhbhai Patel reminded them that
+
+> The Patel is the <i>mukhi</i> or mouthpiece of the village. His duty is to speak to the Government on behalf of the village, not to oppress his brethren by attaching their property in order to recover an unjust tax. It is his duty to tell Government that attachment work is below his dignity and self-respect.
+
+Sixty patels met and decided unanimously that they would not assist in tax collection.
+
+In Valod, seven landholders were served notices of forfeiture.
+Sheth Virchand wrote back, saying in part:
+
+> If you claim to be a loyal servant of Government, it is your duty to inform them of the true state of things in the <i>taluka</i> [district] and help people to get the wrong righted. I humbly request you to find out some means of getting out of the odious task of oppressing the people, when your time to retire is now so near. Rather than take the next step of forfeiting the lands of the agriculturists, I would suggest to you to resign. I dare say you have sufficient days of privilege leave yet unenjoyed. As your well-wisher I would ask you to go on leave prior to retirement rather than stain your honour by doing things which do not become you.
+
+As a result of pressure like this, “the officials who every day talked of crushing the movement… could not get local men or local labourers for the purpose, and had to go as far as Bombay to hire the service of the Pathans.”
+
+## Free Keene
+
+A group of activists in Keene, New Hampshire, ranging from Christian anarchists to “Free State Project” ballot-box libertarians, has been experimenting with innovative civil disobedience projects in recent years.
+
+In one example, in 2006 Russell Kanning went to the Keene branch of the IRS and tried to hand leaflets to the employees there.
+The leaflets quoted from the tribunal that presided over war crimes trials in Japan after World War II, to the effect that people are personally obligated to disengage from the crimes of their governments.
+Included in the leaflets was a sample letter that IRS employees could send if they wanted to resign from their jobs.
+
+Kanning was arrested by agents from the Department of Homeland Security and charged with distributing materials in a federal building and failure to obey a lawful order.
+After he was booked and released, he immediately returned to the IRS office to try again (without the leaflets, which had been confiscated). He was arrested again and charged with disorderly conduct.
+
+A few months later, Dave Ridley followed-up on Kanning’s action, this time at the Nashua IRS office.
+He silently held up a sign that read “Is it right to work for the IRS?” and passed a leaflet through the window that read in part:
+
+> I have the right to remain silent. IRS agents have the right to quit their jobs. If that is not possible, they have a responsibility to work as inefficiently as possible when taking our money, and as quickly as possible when returning it.
+
+The police were summoned and they hustled him out of the building. They later cited him for “distribution of handbills.”
+
+Kat Kanning and Lauren Canario were the next activists in line.
+They went to the Keene IRS office with a “Taxes pay for torture” sign and a stack of leaflets.
+They were charged with “disorderly conduct and loitering [and] failure to obey a lawful order.”
+
+At every stage in the process, these activists tried to directly but non-aggressively confront not only the IRS employees, but also the Homeland Security officers, court bailiffs, judges, and other government collaborators: asking them why they were interfering with the Constitutional right of American citizens “to petition their government for a redress of grievances,” and asking them to consider taking up a more honorable line of work.
+
+## First Intifada
+
+At the launching of the first intifada to resist Israeli rule over Palestinians, those Palestinians who worked for the tax department under the Israeli occupation resigned their posts.
+As a result of these resignations and of organized tax resistance, only about 20% of Palestinians subject to Israeli taxes in the West Bank paid their taxes in 1993, the last year before Israel relinquished tax administration there to the Palestinian Authority.
+
+## Greek Tax and Customs Officials
+
+At the same time as the “won’t pay” tax resistance movement was protesting the Greek government’s policy of raising taxes while imposing austerity budgets, bureaucrats in the Greek tax and customs offices were periodically going on strike in 2010 and 2011 to protest salary and benefit cuts for state employees.
+This put the two groups into something of a strategic alliance.
+
+Tax office employees and tax resisters make for strange bedfellows, but I remember witnessing a somewhat similar case from 2006 in the United States.
+I was participating in a tax day protest with some war tax resisters at a post office in Oakland, California, where we held up banners, handed out flyers, and projected a slide show of war tax resistance propaganda for the traffic jam of last-minute tax return filers.
+We were joined by some members of the National Treasury Employees Union who came to the post office fresh from a union meeting in order to protest the IRS’s plans to outsource their work to private debt collection agencies.
+
+At first it seemed a little awkward to be protesting alongside IRS employees who today were fighting to protect their jobs but tomorrow might be trying to seize our assets.
+But those IRS employees who had brought no signs of their own borrowed extra ones from us, and so, to our delight, we had IRS employees and their families protesting against war taxes right alongside us!
+
+## Education Act Resistance
+
+British members of nonconforming Christian sects did not want to see their tax money going to official church schools, as the Education Act of 1902 directed, so they resisted their taxes.
+According to a newspaper report, they were aided by sympathizers in the tax enforcement bureaucracy:
+
+> In Lincolnshire, the sitting magistrate recently refused to try cases of resistance, and left the bench. Difficulty is experienced everywhere in getting auctioneers to sell the property confiscated.
+
+<hr />
+
+<details>
+<summary>Notes and Citations</summary>
+
+* Thoreau, H.D. “Resistance to Civil Government” <i>My Thoughts are Murder to the State</i> (2008) pp. 1–21
+* Desai, Mahadev <i>The Story of Bardoli</i> (1929) pp. 77, 88–89, 113
+* Kanning, Kat “The government is bad, but what can we do?” <i>Keene Free Press</i> 23 July 2007
+* Ridley, Dave “Is It Right to Work for the IRS?” <i>Keene Free Press</i> 18 September 2006, “A Quick Update on my Contest with Homeland Security” <i>Keene Free Press</i> 3 November 2006, “Jailed in Defense of the Constitution, Part 2” <i>Keene Free Press</i> 16 August 2007, “Jailed in Defense of the Constitution, Part III” <i>Keene Free Press</i> 23 September 2007
+* Greenberg, Joel “Israelis Yield West Bank Taxation and Health to Palestinians” <i>New York Times</i> 2 December 1994
+* “Greek officials walk out as general strike over budget cuts looms” <i>Deutsche Welle</i> 2 April 2010
+* “The passive resistance of the nonconformists…” <i>San Francisco Chronicle</i> 19 October 1903, p. 6
+
+</details>

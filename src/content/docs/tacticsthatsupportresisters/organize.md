@@ -1,0 +1,37 @@
+---
+title: Form Groups for Mutual Support and Coordinated Decision-Making
+description: Sometimes the decisive turn in a tax resistance campaign has come when the resisters have coalesced into a formal group with the authority to organize and coordinate resistance actions.
+sidebar:
+  order: 8
+---
+Sometimes the decisive turn in a tax resistance campaign has come when the resisters have coalesced into a formal group with the authority to organize and coordinate resistance actions.
+
+## Breton Association
+
+It can even be helpful to form a tax resistance group before any tax resistance takes place.
+When Charles X and his ministers threatened to bypass the elected legislature and start taxing and spending on their own initiative in 1829, French liberals formed the “Breton Association” to coordinate their resistance—but they didn’t begin resisting right away.
+
+Instead the Association established a trigger condition upon which tax resistance would begin:
+If the government tried to impose a tax without the consent of the legally-constituted legislature, members of the Association would immediately launch mass resistance and would begin contributing to a fund that could be used to pay for the legal defense of resisters and to file suits against anyone trying to collect the illegal tax (see form mutual insurance pacts).
+
+In this way, the Association represented a credible threat to the planned royal usurpation—so much so that the crown imprisoned the editors of those newspapers that dared to print the Association’s charter.
+
+## Poll Tax Rebellion
+
+Danny Burns, in his history of the rebellion against Margaret Thatcher’s poll tax, stresses how important it was for the success of the campaign that people formed and ran their own small-scale, neighborhood resistance groups, rather than ceding control to the various established left-wing parties and labor organizations that wanted to piggy-back on the movement for their own ends but that were afraid to identify themselves too closely with the law-breaking resisters:
+
+> Prior to the Anti-Poll Tax campaign, many people’s only experience of politics was a traditional Labour Party or trade union meeting—the sort of meeting where the top table takes up 90% of the discussion; where the only items discussed are those decided by the executive committee; where half the meeting time is spent discussing procedural motions or the order of words in a resolution; where political factions throw rhetoric across the room in angry and unproductive exchanges. Essentially, boring meetings which stretch long into the night. Hundreds of thousands of people have been to these meetings just once and never returned. To engage people in a mass campaign, the Anti-Poll Tax Unions had to challenge this culture of organisation. They had to make people feel wanted and included and give everyone a sense that they had a role.… This immediate form of organisation also meant that people weren’t patronised by those who had political experience. In the local groups, people didn’t need permission to act, they just had to get on the phone to their neighbours and get something going. People stay involved in political campaigns if they can contribute in the way that they feel is most effective.
+
+However, he also notes:
+
+> …it was sometimes in the places where the Anti-Poll Tax Unions were weakest that resistance was strongest. For example, St. Pauls was almost the only area in Bristol which couldn’t sustain an Anti-Poll Tax group. Local people didn’t feel the need to set up new groups because, as in many inner city areas, they already had strong networks of solidarity, and there was already a high level of general hostility to officials of any sort.… By the end of 1990, three times as many people had turned up to court to contest their cases from St. Pauls than any other area.
+
+<hr />
+
+<details>
+<summary>Notes and Citations</summary>
+
+* “History of Europe: Chapter VIII—France” <i>The Annual Register… of the Year 1829</i> (1830) p. 164
+* Burns, Danny <i>Poll Tax Rebellion</i> AK Press (1992), pp. 189–91
+
+</details>

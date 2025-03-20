@@ -1,0 +1,114 @@
+---
+title: It Only Takes a Little Leavening to Leaven the Loaf
+description: By aiming at this standard, you raise the standards of those around you, and even if you cannot detect a direct influence, you improve society.
+sidebar:
+  order: 8
+---
+By aiming at this standard, you also raise the standards of those around you, and so even if you cannot detect a direct influence, you improve society.
+The way Thoreau put it—“It is not so important that many should be as good as you, as that there be some absolute goodness somewhere; for that will leaven the whole lump.”
+
+By being virtuous in an out-of-the-ordinary way, you encourage people to call ordinary vices into question and you force the devil’s advocates to show themselves by coming to the devil’s defense.
+Thoreau was convinced that one person was enough to leaven the loaf:
+
+> [I]f one thousand, if one hundred, if ten men whom I could name,—if ten <em>honest</em> men only,—aye, if <em>one</em> <strong>honest</strong> man, in this State of Massachusetts, <em>ceasing to hold slaves</em>, were actually to withdraw from this copartnership, and be locked up in the county jail therefor, it would be the abolition of slavery in America.
+
+Hennacy said that his “work was not that of an organizer but of a Sower to sow the seeds.”
+
+> We really can’t change the world. We really can’t change other people! The best we can do is to start a few thinking here and there. The way to do this, if we are sincere, is to <em>change ourselves!</em>
+
+> <em>When they are ready for it</em> [my emphasis, again], the rich, the bourgeois intellectual, the bum, and even the politician and the clergy may have an awakening of conscience because of the uncompromising seeds of Christian Anarchism which we are sowing.
+
+You have a plan to reform the world? As the saying goes: “show me, don’t tell me.” Thoreau:
+
+> The Reformer who comes recommending any institution or system to the adoption of men, must not rely solely on logic and argument, or on eloquence and oratory for his success, but see that he represents one pretty perfect institution in himself…
+>
+> I ask of all Reformers, of all who are recommending Temperance, Justice, Charity, Peace, the Family, Community or Associative life, not to give us their theory and wisdom only, for these are no proof, but to carry around with them each a small specimen of his own manufactures, and to despair of ever recommending anything of which a small sample at least cannot be exhibited:—that the Temperance man let me know the savor of Temperance, if it be good, the Just man permit me to enjoy the blessings of liberty while with him, the Community man allow me to taste the sweets of the Community life in his society.
+
+Too many reformers think they can reform the rottenness of the system the people are sustaining without excising the rottenness of the people who sustain the system.
+Thoreau thought differently:
+“The disease and disorder in society are wont to be referred to the false relations in which men live one to another, but strictly speaking there can be no such thing as a false relation if the condition of the things related is true.
+False relations grow out of false conditions.…
+It is not the worst reason why the reform should be a private and individual enterprise, that perchance the evil may be private also.”
+
+So often we hear of a Big Plan that, were it enacted as designed, would solve the Big Problems.
+But the problem with the big plans is that they never seem to get enacted, or if they do, they never seem to work as designed, as the same old problems show up in new guises.
+Meanwhile the planners waste their time and energy and don’t change what is changeable.
+Tolstoy put it this way:
+
+> If a man drinks, and I tell him that he can himself stop drinking and must do so, there is some hope that he will pay attention to me; but if I tell him that his drunkenness forms a complex and difficult problem, which we, the learned, will try to solve in our meetings, all the probabilities are that he, waiting for the solution of the problem, will continue to drink. The same is true of the false and intricate scientific, external means for the cessation of war, like the international tribunals, the court of arbitration, and other similar foolish things, when we with them keep in abeyance the simplest and most essential means for the cessation of war, which is only too obvious to anybody. For people who do not need war not to fight we need no international tribunals, no solution of questions, but only that the people who are subject to deception should awaken and free themselves from that spell under which they are. This means for the abolition of war consists in this, that the men who do not need war, who consider a participation in war to be a sin, should stop fighting.
+
+An alcoholic who spoke with Hennacy had much the same sentiment:
+“[Alcoholics Anonymous] fixed me up.
+You are right in not wanting to change the world by violence; the change has to come with each person first.”
+
+Many ostensible opposition movements are full of people who are willingly paying for what they say they oppose—like drunks meeting in a tavern at happy hour to organize a prohibition movement that will solve their alcohol problem.
+
+One of the saddest examples of a personal revolution lost is that of the American revolutionary Thomas Jefferson.
+His theory was sound.
+Read these uncompromising anti-slavery words from his draft of the Declaration of Independence:
+
+> He [the King] has waged cruel war against human nature itself, violating its most sacred rights of life and liberty in the persons of a distant people who never offended him, captivating and carrying them into slavery in another hemisphere, or to incur miserable death in their transportation thither. This piratical warfare, the opprobrium of <em>infidel</em> powers, is the warfare of the <em>Christian</em> king of Great Britain. Determined to keep open a market where <em>men</em> should be bought and sold, he has prostituted his negative [veto] for suppressing every legislative attempt to prohibit or to restrain this execrable commerce. And that this assemblage of horrors might want no fact of distinguished die, he is now exciting those very people to rise in arms among us, and to purchase that liberty of which he has deprived them, by murdering the people on whom he also obtruded them: thus paying off former crimes committed against the <em>liberties</em> of one people, with crimes which he urges them to commit against the <em>lives</em> of another.
+
+Jefferson frequently attacked the evil of slavery, not only because of the obvious evil that it was against those enslaved, but also because it degraded everyone by presenting a despotic institution as natural and reasonable.
+In one of his musings on slavery, he wrote:
+“There must doubtless be an unhappy influence on the manners of our people produced by the existence of slavery among us.
+The whole commerce between master and slave is a perpetual exercise of the most boisterous passions, the most unremitting despotism on the one part, and degrading submissions on the other.”
+
+If you asked him, he’d tell you that nobody hated slavery more than he.
+In fact, he did say as much, when he apologetically declined to join an abolitionist society (because he was representing the U.S. government in France at the time and thought it would be unseemly):
+“You know that nobody wishes more ardently to see an abolition not only of the trade, but of the condition of slavery.”
+
+Thomas Jefferson owned 187 people, enslaved to him.
+When he died, he had a small handful emancipated.
+The others were auctioned off to pay his debts.
+In spite of Jefferson’s prophetic vision, his zeal, the effectiveness of his many efforts, and his professed love of liberty, he could not and did not end slavery in America.
+He could have, but did not, return liberty to his 187 slaves.
+
+This should worry us.
+Are we too waiting like Jefferson—willing to spend our entire lives waiting for the critical mass, the Hollywood Gandhi, the benevolent aliens from Atlantis, the paradigm shift, the noble third-party candidate, the Sign From God, that one impossible thing that needs to happen before we ourselves can actually do what we know is right and free our slaves?
+
+<hr />
+
+<details>
+<summary>Notes and Citations</summary>
+
+* The lump-leavening quote comes from Thoreau’s [“Resistance to Civil Government”](https://sniggle.net/TPL/index5.php?entry=rtcg).
+  The “a little leavening leavens the whole lump” metaphor appears in several places in the Bible.
+  Usually, the leavening represents corruption and the metaphor is something like the more modern “one rotten apple can spoil the whole barrel.”
+  But Jesus used the metaphor in a much more positive way, saying that “The kingdom of heaven is like yeast that a woman took and mixed into a large amount of flour until it worked all through the dough.”
+
+  Thoreau’s “ten honest men” also hearkens back to the Bible, in this case the story of the destruction of Sodom and Gomorrah.
+  When God threatened to destroy the cities, Abraham asked him if he would still be willing to destroy them if there were fifty righteous people there who would be destroyed with the rest.
+  God said in that case, he’d back off.
+  Then Abraham said, what about 45? how about 40? 30? 20? 10?
+  He managed to negotiate God down to ten before God got sick of the act and walked away.
+  Alas, there weren’t even that many righteous people, so God torched the place.
+
+  For that matter, Thoreau’s note that in his speech to a mostly-shocked crowd “the seed has not all fallen in stony & shallow ground” also has Biblical roots, as does his “do not let your right hand know what your left hand does” remark.
+  Even if you’re not a Christian, you almost have to be familiar with the King James Bible just to acquire the vocabulary of metaphors you need to understand the centuries of English-language literature that came after.
+
+  By using phrases like these and drawing on the stories they evoked in his audience, Thoreau is reminding them that his arguments, while challenging, are rooted in a tradition they can understand and already are familiar with.
+  As good Christians, they have probably already tried to imagine the Kingdom of God as being like a little yeast leavening a whole loaf, or whether or not they are the sort of good ground on which the seeds of good teaching would land and flourish, or whether if angels came to destroy their town they would be among the ten righteous people who could argue for them to spare it.
+* Hennacy, Ammon “The Old Pioneer” <i>The Book of Ammon</i> (1970) p. 92
+* Hennacy, Ammon “We Have the Kind of World We Deserve” <i>The Book of Ammon</i> (1970) p. 196–98
+* Hennacy, Ammon “Culls” <i>The Book of Ammon</i> (1970) p. 233
+* Thoreau. H.D. [“Reform and the Reformers”](https://sniggle.net/TPL/index5.php?entry=reformers)
+* Tolstoy, Leo “Carthago Delenda Est” (1898).
+  After preparing this section of the book, I discovered that Plato had anticipated Tolstoy’s line of thought in the <i>Republic</i> (§425–26), where he discourages legislators from trying to improve society by passing better and better laws rather than from trying to build better and better citizens: “they will spend their lives in continually enacting and amending numerous laws… expecting to attain to perfection,” he quotes Socrates as saying.
+  His interrogator says:
+  > “You mean that such persons will live as those do who are in bad health, and yet, from their want of self-restraint, cannot make up their minds to relinquish a pernicious course of life.”
+  >
+  >  “Precisely so… And truly such people lead a charming life! always in the doctor’s hands, they make no progress, but only complicate and aggravate their maladies; and yet they are always hoping that some one will recommend them a medicine which shall cure them.… is it not charming that they should regard as their greatest enemy any one who tells them the truth, and assures them that till they give up their drunkenness, gluttony, and debauchery, and laziness, no drugs, nor any use of caustic or the knife, nor yet charms, or amulets, or any thing of the kind, will do them any good? .…indeed these are the most amusing people in the world, who imagine that with their everlasting enactments and amendments… they will find some way of putting down the knaveries that are practised in contracts, and those other embarrassments which I detailed… little thinking that they are in reality only cutting off the heads of a Hydra.”
+
+  — Davies, J.L. & Vaughan, D.J. (translators) <i>The Republic of Plato</i> (1908) pp. 125–26
+* Hennacy, Ammon “Tax Fast and Picketing” <i>The Book of Ammon</i> (1970) p. 199
+* Jefferson, Thomas “A Declaration by the Representatives of the United States of America, in General Congress Assembled” <i>The Writings of Thomas Jefferson</i>, vol. I (1853) pp. 23–4
+* Jefferson, Thomas “Notes on Virginia” <i>The Writings of Thomas Jefferson</i>, vol. VIII (1854), p. 403
+* Jefferson, Thomas “Letter CXXVII” (12 February 1788) <i>Memoir, correspondence, and miscellanies, from the papers of Thomas Jefferson</i>, vol. II (1830), p. 292
+
+  There is a lot more to the Jefferson/slavery issue than I was able to do justice to here.
+  People continue to discover and/or invent new justifications for his holding people in slavery.
+  Most of these strike me as poor excuses, exaggerated into reasons by people who (like me) feel some admiration for Jefferson and would rather not feel ashamed about it.
+  One articulate defense of Jefferson was published in <i>The Atlantic</i> a while back: Wilson, Douglas L. “Thomas Jefferson and the Character Issue” November 1992.
+
+</details>

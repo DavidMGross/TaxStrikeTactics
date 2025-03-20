@@ -1,0 +1,121 @@
+---
+title: Get a Good Spin out in the Media
+description: Use existing mass media to transmit messages of benefit to you campaigns or create new media to do the job.
+sidebar:
+  order: 7
+---
+Some tax resistance movements have cleverly used existing mass media to transmit messages of benefit to their campaigns.
+In other cases, they have had to establish or invent new media to do the job.
+
+## Bardoli Tax Strike
+
+The Bardoli tax strike was media savvy, both in its use of preexisting media, and in its innovative use of local, down-to-earth outreach methods.
+Mahadev Desai wrote:
+
+> A campaign like this could not be carried out without a publicity department. The peasants could not be asked to subscribe to daily papers or even to the weekly <i>Navajivan</i>, and outside papers could at best give an outside view of the campaign.… The arrangement was to issue a daily news bulletin and publish Sjt. Vallabhbhai’s speeches in pamphlet form and to distribute them free to the agriculturalists all over the taluka.… The arrangement answered most admirably, the villagers waiting anxiously for the <i>patrikas</i> [pamphlets] every morning and devouring the contents with avidity. All the Gujarati and almost all the English dailies of Bombay reproduced them <i>verbatim</i>, and as the movement gathered force, every important town and village in Gujarat began to get copies of the bulletin with the result that over and above ten thousand copies distributed in Bardoli, four thousand copies were subscribed to by places outside.
+
+Because the movement relied on its own periodical literature, it also needed its own team to handle distribution.
+This was laborious work, but the movement could take advantage of it for two-way communication and for intelligence gathering.
+In the course of describing the organizational structure of the nonviolent resistance army, Desai noted:
+
+> [U]nder these officers were privates ready to march anywhere and everywhere, at any hour of the night and day, and ready to do the lowliest of duties, from carrying a message to drawing water from the well.… The round of duties of most of them began often as early as 3 A.M., when they started with their orders for the day to the various villages where they would distribute the daily news bulletins issued by the Publicity Bureau.… All were to go amongst the peasants, acquaint themselves with their needs and difficulties, cheer them up, and explain to them the instructions of the Chief…
+
+The commander of the tax strike was “ever on the move” delivering pep talks and propaganda in person, “often at midnight, and often at three or four places in a day.”
+
+> The Bardoli victory was not won by a miracle. It was the inevitable fruit of patient and incessant toil, the inevitable result of the teaching that the Sardar wore himself out to impart day in and day out. During the first two months he gave three days in the week to Bardoli, but as soon as the Ahmedabad Municipality released him, all his waking hours were given to the people of Bardoli, the day usually beginning at 5 P.M. and ending at 2 A.M., with four or five speeches a day on average.
+
+## Valentine Byler
+
+The case of Valentine Byler, an Amish man who refused to participate in the American Social Security system for religious reasons, was remarkable for how it played out in the media.
+Part of this was due to the heavy-handedness of the IRS, which seized Byler’s horses out from under him as he was working his field.
+Asked about this, the IRS Chief of Collections said: “Plowing never occurred to me. I live in an apartment.”
+
+The frame of thoughtless-urban-bureaucrats vs. godly-heartland-people attached itself to the story, and those editorialists across the country who were already skeptical of welfare state policies jumped on it.
+“What kind of ‘welfare’ is it,” editorialized the <i>New York Herald Tribune</i>, “that takes a farmer’s horses away at spring plowing time in order to dragoon a whole community into a ‘benefit’ scheme it neither needs nor wants, and which offends its deeply held religious scruples?”
+
+As a result of press like this, Byler got letters of support from around the country.
+Congress eventually felt enough of the pressure that it carved out a legal exception for self-employed Amish people that exempts them from the Social Security law.
+
+## Women’s Suffrage Movement
+
+Abby and Julia Smith were taxed excessively by an unscrupulous local government that they, as women, had no voice in electing.
+They decided to resist, and they knew how to make their struggle attractive to the news media.
+
+Julia prepared a speech for the town council that fell on deaf ears—but she then released the text to the editor of a nearby newspaper, which reprinted it and compared the sisters to the American Revolutionaries who fought for the principle of “no taxation without representation.”
+An accompanying editorial concluded:
+“It will not be creditable if Abby Smith and her sister are left to stand alone… to fight the battle of principle unaided.”
+
+Sure enough, they received aid—rhetorical and practical—from many quarters.
+“[M]uch of the nation’s interest in the Glastonbury case was the work of Abby,” wrote Elizabeth George Speare in recapping the case, “who willingly took pen in hand to keep her public informed.
+…she seems to have welcomed every opportunity to recount, in her pungent style, a tale which lost nothing in constant retelling.”
+
+The Women’s Tax Resistance League in Britain made sure to have speeches and propaganda ready to deliver at events like tax auctions that the media might cover.
+Such speeches might become the core of a reporter’s coverage of such an event.
+Dora Montefiore recalled how she and some of her fellow-activists worked to turn the “siege” of her home into a media phenomenon:
+
+> In 1904 and 1905 a bailiff had been put in my house, a levy of my goods had been made, and they had been sold at public auction in Hammersmith. The result as far as publicity was concerned was half a dozen lines in the corner of some daily newspapers…
+>
+> When talking this over in 1906 with Theresa Billington and Annie Kenney, I told them that now we had the organisation of the W.S.P.U. [Women’s Social and Political Union] to back me up I would, if it were thought advisable, not only refuse to pay income tax, but would shut and bar my doors and keep out the bailiff, so as to give the demonstration more publicity and thus help to educate public opinion about the fight for the political emancipation of women which was going on. They agreed that if I would do my share of passive resistance they would hold daily demonstrations outside the house as long as the bailiff was excluded and do all in their power outside to make the sacrifice I was making of value to the cause.…
+>
+> …From the day of this simple act of closing my door against the bailiff, an extraordinary change came over the publicity department of daily and weekly journalism towards this demonstration of passive resistance on my part…
+>
+> On the morning following the inauguration of the siege, Annie Kenney and Theresa Billington, with other members of the W.S.P.U., came round to see how we were getting on and to encourage our resistance. They were still chatting from the pavement outside, while I stood on the steps of No. 32 Upper Mall, when there crept round from all sides men with notebooks and men with cameras, and the publicity stunt began. These men had been watching furtively the coming and going of postmen and tradesmen. Now they posted themselves in front, questioning the suffragists outside and asking for news of us inside. They had come to make a “story” and they did not intend to leave until they had got their “story.” One of them returned soon with a loaf of bread and asked Annie Kenney to hand it up over the wall to my housekeeper, whilst the army of men with cameras “snapped” the incident. Some of them wanted to climb over the wall so as to be able to boast in their descriptions that they had been inside what they pleased to call “The Fort”; but the policeman outside (there was a policeman on duty outside during all the six weeks of a siege) warned them that they must not do this so we were relieved, in this respect, from the too close attention of eager pressmen. But all through the morning notebooks and cameras came and went, and at one time my housekeeper and I counted no less than twenty-two pressmen outside the house. A woman sympathiser in the neighbourhood brought during the course of the morning, a pot of home-made marmalade, as the story had got abroad that we had no provisions and had difficulty in obtaining food. This was never the case as I am a good housekeeper and have always kept a store cupboard, but we accepted with thanks the pot of marmalade because the intentions of the giver were so excellent; but this incident was also watched and reported by the Press.580
+
+## First Intifada
+
+When I read stories from newspaper archives about the tax strike in Beit Sahour during the first intifada, I’m struck with how much more sympathetic the American press was toward the Palestinian people at that time.
+They are depicted as human beings, with families and aspirations, and their grievances are taken seriously and explored and analyzed and given credence.
+The contrast with the coverage in today’s media is stark.
+
+This can partially be explained by the fact that most of the resisters there were Palestinian <em>Christians</em>, and so did not trigger the anti-Muslim bias that shapes much of the English-language reporting from the area (one news account, for example, made much of the fact that the Israeli military had seized “Christian crosses carved of olivewood and the statuettes of the Good Shepherd and the Madonna” from one resister).
+
+But the resisters in Beit Sahour were also very deliberately media savvy:
+they stuck to nonviolent tactics, which, besides being tactically sensible under the circumstances, also made the expected draconian Israeli crackdown seem particularly bullying; and they used slogans, like “no taxation without representation” that fell on sympathetic ears in the English-speaking world.
+A reporter noted, pointedly, that when the Israeli military lifted its siege of Beit Sahour, “hundreds of residents gathered at a central intersection to celebrate and to escort journalists to homes and shops from which troops had seized goods.”
+
+## Poll Tax Rebellion
+
+During the campaign against Margaret Thatcher’s poll tax, the resistance movement successfully depicted the government’s tax as being particularly harmful to pensioners, the disabled, student nurses, families with live-in elderly relatives, and other such victims, in a way that made for a sympathetic media narrative.
+“Stories like this flooded both the national and local media,” writes movement historian Danny Burns. “One minute the focus was on the nurses, next on the disabled, then on the pensioners.”
+
+## American War Tax Resisters
+
+The IRS pursues a publicity strategy in coordination with its enforcement actions, and it grades itself by how much press coverage it gets when it cracks down on a tax evader—“sending the message to taxpayers that violations of the Internal Revenue Code and related financial crimes are being investigated and prosecuted.”
+One study estimated that for every dollar the government wins directly as the result of a well-publicized criminal tax conviction, it gets sixteen dollars from people who are scared into tax compliance by hearing the news.
+
+For this reason the IRS tries to make sure the press is alerted about any criminal tax cases it thinks it will win.
+And of course the agency gives out its own spin on the case when it does so.
+So it makes sense for tax resisters to be prepared with their own messages on such occasions.
+
+“Never let a lien, levy, seizure, auction, summons, Order to Show Cause, or indictment pass without taking the opportunity to publicize opposition,” advise the authors of the book <i>War Tax Resistance: A Guide to Withholding Your Support from the Military</i>.
+“The IRS is very sensitive to adverse public opinion. It is probably the most disliked agency of the government.
+You may be surprised at the amount of support and sympathy you will get from the general public and media when struggling against the IRS—if you take care to organize properly.”
+
+## The Addiopizzo Movement
+
+Here is another example of activists creating their own media as the springboard for a public relations campaign.
+The Addiopizzo movement, which is trying to get businesses in Sicily to stop paying <i>pizzo</i> taxes to the mafia, started with a clever propaganda campaign in Palermo that was well-designed to get tongues wagging:
+
+> [T]he group printed large stickers. Designed to mimic the look of traditional Sicilian obituary notices, they bore one sentence: “An entire people that pays <i>pizzo</i> is a people without dignity.”
+>
+> Residents woke on June 29, 2004, to find the stickers plastered in the city’s core. The slogan suggested the death of their dignity for accepting the system of <i>pizzo</i>.
+
+<hr />
+
+<details>
+<summary>Notes and Citations</summary>
+
+* Desai, Mahadev <i>The Story of Bardoli</i> (1929) pp. 57–58, 163–64, 168
+* Igou, Brad “Valentine Byler vs. the IRS: ‘Pay Unto Caesar—The Amish & Social Security’ ” <i>Amish Country News</i> 1999
+* Speare, Elizabeth George “Abby, Julia, and the Cows” <i>American Heritage</i> June 1957
+* Montefiore, Dora <i>From a Victorian to a Modern</i> (1925) chapter VI
+* Cowell, Alan “Beit Sahur Journal: In a Tax War, Even the Olivewood Dove Is Seized” <i>New York Times</i> 11 October 1989
+* “Israel lifts siege on tax town” <i>The Glasgow Herald</i> 1 November 1989, p. 4
+* Burns, Danny <i>Poll Tax Rebellion</i> AK Press (1992), p. 19
+* Treasury Inspector General for Tax Administration “Statistical Portrayal of the Criminal Investigation Function’s Enforcement Activities From Fiscal Year 2000 Through Fiscal Year 2006” 6 June 2007. The full paragraph reads:
+  > In an effort to ensure voluntary [sic.] compliance, the [criminal investigation] function changed its philosophy to allow for more publicity of its tax investigations. It continues to increase the publicity on tax prosecutions, and the overall publicity rate of 75.6 percent for prosecutions in FY 2006 was an all time high. The 81.3 percent publicity rate for legal source income tax investigations is also an all time high. This increased exposure indicates the function is receiving media attention and sending the message to taxpayers that violations of the Internal Revenue Code and related financial crimes are being investigated and prosecuted.
+* Plumley, Alan H. <i>The Determinants of Individual Income Tax Compliance</i>, pp. 35, 40, Internal Revenue Service Publication 1916 (1996)
+* Hedemann, Ed. <i>War Tax Resistance: A Guide to Withholding Your Support from the Military</i>, 5th ed. (2003) p. 60
+* Humphreys, Adrian “Beating the Mafia at their own game: After years of paying a ‘protection’ tax, Palermo businesses came together to fight back” <i>National Post</i> 28 January 2013
+
+</details>

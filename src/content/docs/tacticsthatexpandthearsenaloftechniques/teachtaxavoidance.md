@@ -1,0 +1,42 @@
+---
+title: Counsel People in Legal Tax Avoidance Techniques
+description: Some tax resistance campaigns teach pragmatic tax strategies that would not be out of place in run-of-the-mill financial planning workshops.
+sidebar:
+  order: 13
+---
+If you resist taxes because you want to reduce the financial resources available to the government, it may not matter to you whether you do this through illegal civil disobedience or through legal tax reduction strategies.
+For this reason, some tax resistance campaigns have taught pragmatic tax strategies that would not be out of place in run-of-the-mill financial planning workshops.
+Here are some examples:
+
+During a sales tax strike in Ontario in 1981, the accounting firm Deloitte Haskins and Sells Canada (an ancestor of today’s enormous Deloitte professional services firm) published a booklet that described several ways that people could legally avoid the sales tax, including “such tips as buying large children’s clothing for small-sized adults or buying baby skin care products as substitutes for adult versions” (products intended for children evidently being exempt from the tax).
+
+In 1973 a group of war tax resisters in Boston, Massachusetts, opened a tax consulting service called “Common Sense” that “drew on the expertise of trained tax accountants to provide two services: counseling for tax resisters and aid to anyone in preparing tax forms… Clients often were poor or working-class people.
+Many were helped to avoid tax overpayments, and a large degree of friendly communication was established.”
+
+Today in the United States, about 40% of households pay no federal income tax, legally, because their incomes are sufficiently low or their deductions and credits are sufficiently high.
+Some tax resisters there successfully resist the income tax by deliberately joining this 40%—they learn how to take advantage of deductions and credits so that they can earn enough to support themselves without earning so much that the government wants its cut.
+
+An IRS-sponsored program called “Volunteer Income Tax Assistance” enlists and trains volunteers to help people—typically people with low incomes—to fill out their income tax returns.
+The great majority of returns filed through this program result in refunds rather than additional payments (at a ratio of about 15:1), so Americans who volunteer for this program can take money from the government and give it back to tax filers, entirely by-the-book.
+
+French farmers in the 17th and 18th centuries used every legal trick they could discover (and several less-legal ones besides) to reduce or eliminate the tithes due on their crops. Some of their tricks included:
+
+* growing new varieties of crops that were not mentioned in the tithe laws
+* planting “gardens” or “orchards” or “meadows” that were legally tax-exempt although they were functionally equivalent to the taxed fields
+* taking advantage of the way tax assessors rounded-off their figures so as to maximize how much of their crops would be mathematically exempted in this way
+* planting a small amount of a taxable crop in a field that was dominated by a non-taxable crop and then claiming the whole field as non-taxable
+
+These legal (or sometimes <em>questionably</em> legal) strategies were very effective at lowering tax revenue well below what the government hoped for.
+“Loopholes are discovered and exploited, efforts are made to stem the loss of revenue, new evasions are devised, and so on—a cat-and-mouse game in which, most observers agree, the mouse generally outwitted the cat.”
+
+<hr />
+
+<details>
+<summary>Notes and Citations</summary>
+
+* “Province-wide sales tax boycott urged” <i>The [Ottawa] Citizen</i> 27 October 1981, p. 12
+* “On the Growing Edge” <i>Friends Journal</i> 1 May 1973, p. 258
+* NWTRCC’s pamphlet <i>Low Income/Simple Living As War Tax Resistance</i> (2007)
+* Scott, James C. “Dissimulation in Practice” <i>Decoding Subaltern Politics: Ideology, Disguise, and Resistance in Agrarian Politics</i> (2013)
+
+</details>

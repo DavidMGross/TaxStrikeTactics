@@ -1,0 +1,34 @@
+---
+title: Refuse to Use Government Currency
+description: Some tax resistance movements have adopted the tactic of refusing to use government money.
+sidebar:
+  order: 22
+---
+A government can fund itself in a limited way just by relying on its power to coin money, but this in turn depends on the willingness of people to accept the coin of the realm.
+Some tax resistance movements have adopted the tactic of refusing to use government money.
+
+During the Russian revolution of 1905, a coalition of anti-government groups issued a manifesto in which they asserted that the government was essentially bankrupt, and they urged people to withdraw their deposits from the banks in gold rather than in untrustworthy government notes, and to demand their wages in gold.
+Newspapers that were reluctant to print the manifesto were threatened with labor strikes by the Workmen’s Alliance union.
+The government was spooked enough that it quickly confiscated all copies of the newspapers that printed the text of the manifesto and arrested all two-hundred members of the union’s executive committee.
+A government statement explained: “efforts were made to attack the credit of the country in the midst of a considerable panic.
+Had the government allowed such efforts to go unchallenged it would have precipitated complete financial and industrial ruin.”
+
+During the American revolution, the rebel Continental Congress funded its side of the war by issuing paper money, known as “continentals.”
+It demanded that these notes be accepted as legal currency throughout the colonies, even as they sank in value.
+Anyone who refused to accept continentals as real money was considered a traitor to the revolutionary cause, and could be executed at the hands of a military court.
+Many Quakers who were unwilling to participate in war funding refused to use or accept continentals, and the Virginia Yearly Meeting formally forbade its members to use the notes.
+Job Scott wrote of this period:
+
+> I believed a time would come, when Christians would not so far contribute to the encouragement and support of war and fightings as voluntarily to pay taxes that were mainly, or even in considerable proportion, for defraying the expenses thereof; and it was also impressed upon my mind, that if I took and passed the money that I knew was made on purpose to uphold war, I should not bear a testimony against war that for me, as an individual, would be a faithful one. I knew the people’s minds were in a rage against such as, from any motive whatever, said or acted any thing tending to discountenance the war: I was sensible that refusing to pay the taxes, or to take the currency, would immediately be construed as a pointed opposition to the present war in particular; as even our refusing to bear arms was, notwithstanding our long and well-known testimony against it; and I had abundant reason to expect great censure and some suffering in consequence of my faithfulness, if I should stand faithful in these things; though I knew that my scruples were unconnected with any party considerations, and uninfluenced by any motives but such as respect the propriety of a truly Christian conduct, in regard to war at large.
+
+A number of critics view the government monopoly on legal tender as a bulwark of tyranny, and are trying to attack it on a variety of new fronts, including modern twists on community currencies and entirely new substitute currencies empowered by algorithms and networks rather than governments and central banks (see [Switch to Alternative Currencies](../alternativecurrencies/)).
+
+<hr />
+
+<details>
+<summary>Notes and Citations</summary>
+
+* “Riga Now in Flames, Rebels Control Country”, “Exciting Scenes at Arrest of Workmen’s Alliance Committee,” and “Government Defines Position Clearly” <i>New York Herald</i> 19 December 1905, p. 4
+* Scott, Job “I Was Greatly Exercised in Spirit” <i>American Quaker War Tax Resistance</i>, 2nd ed. (2011) pp. 94–95
+
+</details>

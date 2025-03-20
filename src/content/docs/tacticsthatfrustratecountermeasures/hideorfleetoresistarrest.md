@@ -1,0 +1,35 @@
+---
+title: Hide or Flee to Resist Arrest
+description: If resisters make a run for it when arrests are imminent, the government may find that it has only multiplied its headaches.
+sidebar:
+  order: 2
+---
+A government may hope to quell a resistance movement by putting resisters behind bars.
+But if the resisters make a run for it when arrests are imminent, the government may find that it has only multiplied its headaches.
+
+## Annuity Tax Resistance
+
+For example, during the Annuity Tax resistance in Edinburgh in the mid-19th century, a group of resisters liberated one of their number who had been arrested.
+A newspaper report at the time said, “we hear that the constables are on the alert each night to catch the marked men; and that, fearing a visit in the dark, these persons quit their homes and sleep abroad.”
+The government, which had hoped to ease its troubles by putting the troublemakers behind bars, instead found itself faced with the additional bother of tracking down an escapee and his confederates.
+
+## Railroad Bond Shenanigans
+
+Residents of Missouri in the late 19th century used a number of methods to avoid being taxed to pay off railroad bonds that their county governments had issued as part of a swindle (the railroad was never built).
+One method was to elect local judges who were willing to refuse to enforce higher court rulings that were meant to compel the county to raise the tax funds.
+Those judges risked being jailed on contempt of court charges for such refusal, and so they took office with the understanding that they would spend their term either in jail or in hiding.
+County courts would sometimes convene in the woods at night, or in caves, or alongside fake courts with decoy judges, so as to evade federal marshals who were trying to put the resisting judges under arrest.
+According to one account:
+
+> Since local taxpayers believed that the judges were, finally, obeying public opinion, they helped the judges evade the marshals and the law. Homeowners welcomed and hid any judge trying to escape the marshals. In Dallas County the court met in the woods, under culverts, in barns, and other places where marshals were not likely to look. At the county seat of Buffalo, residents developed an elaborate network to warn the judges whenever a stranger appeared who might be a marshal.
+
+<hr />
+
+<details>
+<summary>Notes and Citations</summary>
+
+* “Church Matters in Edinburgh” <i>The Spectator</i>, 17 September 1859, p. 954
+* Thelen, David R. <i>Paths of Resistance: Tradition and Dignity in Industrializing Missouri</i> (1986), pp. 67–8
+* an amusing story of the use of “fake courts with decoy judges” can be found in Wickizer, Frank “A County Thirty-One Years in Rebellion” <i>The Century Magazine</i> April 1907
+
+</details>

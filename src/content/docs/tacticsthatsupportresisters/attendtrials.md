@@ -1,0 +1,24 @@
+---
+title: Attend the Trials of Those Prosecuted
+description: Support tax resisters as they go up against the legal system by attending their trials.
+sidebar:
+  order: 12
+---
+Another way to support tax resisters as they go up against the legal system is to attend their trials.
+At a war tax resistance gathering I attended in 2010, one resister told us how important it had been to him that when he went to court to be sentenced, the courtroom was packed with supporters who quietly stood up behind him when he stood to hear the judge pass sentence.
+
+When British women’s suffrage activist Winifred Patch was subjected to bankruptcy proceedings by the Inland Revenue Department, “officials were astonished to see women bringing in extra benches and overflowing into the solicitors’ seats and the Press pen.”
+Patch refused to cooperate in any way with the court, and a second hearing was scheduled, at which “[t]he crowd of suffragist sympathisers was far larger than on the previous occasion.”
+
+When Vietnam War-era war tax resister John Paul Malinowski was sentenced for his refusal, “a crowd of supporters in the courtroom [‘about 175’] greeted the sentencing with a chorus of ‘Solidarity Forever’ and jubilant applause.”
+
+<hr />
+
+<details>
+<summary>Notes and Citations</summary>
+
+* “Dr. Patch’s Tax Resistance” <i>The Vote</i> 9 February 1917, p. 109
+* “No Vote No Tax” <i>The Vote</i> 2 March 1917, p. 134
+* “War resister gets probation: Supporters jubilant” Delaware County (Pa.) <i>Daily Times</i> 18 April 1972, p. 2.
+
+</details>

@@ -1,0 +1,49 @@
+---
+title: Resist Levies on Employees’ Salaries
+description: Employers can help make the tax resistance of their employees more successful by resisting government attempts to levy the resisters’ salaries.
+sidebar:
+  order: 5
+---
+Employers can help make the tax resistance of their employees more successful by resisting government attempts to levy the resisters’ salaries.
+
+## Amish
+
+Many Amish people believe that Christians should not purchase insurance, as this would betray a lack of trust in God’s providence and in the community of believers.
+For this reason, when the United States began to require its citizens to participate in the Social Security system by paying a tax, some Amish farmers refused to pay.
+
+Among the ways the government responded to this refusal was by trying to seize money that some of these farmers were owed by the processing and distribution cooperatives that they sold their milk to.
+But these cooperatives, which were themselves run by Amish people who were sympathetic to the resisters, refused to turn over any money to the IRS.
+
+## Anti-War Groups
+
+A number of American anti-war groups, such as the War Resisters League, the Fifth Avenue Peace Parade Committee, and National Campaign for a Peace Tax Fund have had policies of not cooperating with IRS levies on the salaries of war tax resisting employees.
+
+## Quakers
+
+Many Quaker meetings have supported their tax resisting employees by refusing IRS levy orders.
+The august Philadelphia Yearly Meeting, for example, has the following official policy:
+
+> If the conscientious, war-tax-resisting employee requests, in the event that IRS serves a levy on Yearly Meeting against the salary, wages, or other employee property alleged to be in the Meeting’s possession, Yearly Meeting will… decline to submit to the levy. In refusing, the Meeting will set forth its belief that military tax resistance is an appropriate individual expression of the Friends Peace Testimony and that Yearly Meeting is led, consistent with its most fundamental beliefs, to resist government efforts to coerce an employee against their conscience in such historic Friends’ testimonies.
+
+Such a policy exposes the organization and its officers to possible government reprisals, and in effect makes the corporate body itself a tax resister.
+An organization that wants to make such a stand must decide, just as an individual must, how far they are willing to go.
+When the IRS tried to levy the salary of war tax resister Vinton Deming, who was the editor of the <i>Friends Journal</i> (which is associated with the Philadelphia Yearly Meeting of Quakers), the Journal resisted at first, but finally relinquished the money when their legal advisor told them they had no chance of prevailing in court.
+
+## Sojourners
+
+The Christian activist group Sojourners has a policy of refusing to comply with government levies of the salaries of its employees who are war tax resisters.
+Sojourners managing director Joe Roos says:
+“To date we have been threatened with levies, with the confiscation of our property, with arrest and prison terms, and, most recently, with the money we refused to turn over being taken out of my personal account since the IRS views me as a ‘responsible person.’
+Despite all these threats, the only action they have taken is to levy our corporate account, taking the amount they say is still due plus interest, plus penalty.”
+
+<hr />
+
+<details>
+<summary>Notes and Citations</summary>
+
+* Igou, Brad “Valentine Byler vs. the IRS: ‘Pay Unto Caesar—The Amish & Social Security’” <i>Amish Country News</i> 1999, 2005
+* “Policy on Military Tax Refusal by Philadelphia Yearly Meeting Employees and on IRS Levies and Other Collection Efforts,” approved by the meeting in 1988 (reaffirming a practice established in 1975), and revised in 2010
+* “Magazine to Pay IRS” <i>Reading Eagle</i> 25 April 1992, p. A16
+* <i>Organizational War Tax Resistance</i>, National War Tax Resistance Coordinating Committee (2008)
+
+</details>

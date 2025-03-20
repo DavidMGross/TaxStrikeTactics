@@ -1,0 +1,94 @@
+---
+title: Refuse to Indict or Convict (Jury Nullification)
+description: If juries refuse to indict or convict tax resisters and their allies, this can be a powerful check on government power.
+sidebar:
+  order: 3
+---
+If juries refuse to indict or convict tax resisters and their allies, this can be a powerful check on government power.
+
+Many successful applications of jury nullification never reach the historical record.
+They succeed quietly when the government, seeing how the cards of public opinion have been dealt, decides not to bring a case to trial because it fears the effect a not-guilty verdict would have.
+
+## Karl Marx in Germany
+
+Here is an example in which the government helped the tax resisters prove their own case when it unwisely took one of them to court:
+
+When the royal and military aristocracy of Germany tried to shut down the country’s first popularly-elected Assembly before it could enact a Constitution, the Assembly responded by declaring the government out of business:
+“So long as the National Assembly is not at liberty to continue its sessions in Berlin, the Brandenburg cabinet has no right to dispose of government revenues and to collect taxes.”
+
+Karl Marx, who was at the time editing a newspaper called the <i>Neue Rheinische Zeitung</i>, trumpeted the news from its pages, saying:
+“From today, therefore, taxes are abolished! It is high treason to pay taxes. Refusal to pay taxes is the primary duty of the citizen!”
+
+The government took Marx to court for such incitements to rebellion, but this didn’t discourage him.
+Marx, defending himself, managed to persuade the jury that he’d been right all along.
+(Edmund Wilson, in whose book <i>To the Finland Station</i> I first learned about this case, wrote that “the effect on the jury was so great that Marx was thanked on their behalf by the foreman for his ‘extremely informative speech.’”)
+
+The prosecution had tried to paint Marx’s advocacy of tax refusal as an act of revolutionary rebellion.
+Because of this, Marx felt that his acquittal not only justified tax resistance but also total revolt:
+
+> [T]he case turned only on the political question: whether the accused were authorised by the decision of the National Assembly on the refusal to pay taxes to call in this way for resistance to the state power, to organise an armed force against that of the state, and to have government authorities removed and appointed at their discretion.
+>
+> After a very brief consultation, the jury answered this question in the <em>affirmative</em>.
+
+## The Whiskey Rebellion
+
+During the passive resistance in Kentucky that paralleled the Whiskey Rebellion in Pennsylvania, juries had no interest in indicting or convicting people for their refusal to pay the federal excise tax on distilled spirits.
+Historian Mary K. Bonsteel Tachau wrote of how this effectively made the tax a dead letter for many years:
+
+> In fact, the only action taken by grand juries during the first four years was to approve the first census. Their inactivity implied that Kentucky was a notably law-abiding place.
+>
+> Of course the judge, the marshal, the grand jurors, and everybody else in Kentucky knew that the internal revenue laws were being ignored. The <i>Kentucky Gazette</i> regularly published notices about the statutes, often accompanied by complaints and threats from Colonel Marshall. It is possible that the grand jurors felt justified in overlooking their obligation by attending strictly to the instructions that Judge Innes gave them. He regularly delivered eloquent addresses describing the matters that came within their cognizance… These were sometimes lengthy lists, but they had one obvious omission because violation of federal statutes was also within the grand jurors’ purview. As long as the judge overlooked such widespread evasion, the jurors evidently felt no obligation to take the initiative and bring charges against their neighbors.
+
+Federal prosecutors could themselves have brought charges against tax resisters before these grand juries, but none of them tried.
+Indeed the federal government had difficulty finding anyone to take the job of prosecutor.
+When, five and a half years after the excise tax went into effect, they finally found someone to take the job, he was a recent arrival from out of state, and they had “to furnish [him] with copies of the revenue statutes, because none were available in the commonwealth.”
+
+The government could now begin bringing charges against Whiskey Rebels in Kentucky.
+But it would not be easy:
+
+> During the remaining terms of court in 1797, the federal marshal failed to convene grand juries, and [federal prosecutor] Clarke failed to file any informations [charges]. Clarke had run head-on against the power structure, and it was not about to submit tamely to an outsider. The agents that he had instructed to seize [Thomas] Jones’s stills were charged with trespass; the witnesses whom he had summoned to testify to the grand juries were denied compensation for their travel. Clarke complained to the treasury department, which initially sympathized with him, but it acknowledged that the judge was master in his own court.
+
+More than seven years after the excise tax came into effect, the government decided to change the rules:
+whiskey distillers would henceforth be banned from serving on the grand jury!
+One of the bottlenecks to prosecution had been broken through.
+But the government still had to convince trial juries to convict:
+
+> [A]s these cases came to trial, it became clear that the distillers did not have much to worry about. In an early grand jury address, Judge Innes had stated that “trials by jury… are the great bulwark which intervenes between the magistrate and the citizen,” and these petit jurors obviously saw themselves as that great bulwark. Whether the charges were initiated by Clarke or by revenue collectors or by grand juries made no difference: trial jurors regularly acquitted their neighbors of criminal charges. In Kentucky, violation of the revenue acts was simply not perceived as a crime. <em>Not one of the fifty criminal charges brought during the four years of Clarke’s tenure resulted in conviction</em> [emphasis mine].… Seven cases went to trial, but the jurors found for the defendants every time, and the judge then ordered their accusers to pay the costs of the suits.
+
+It proved impossible to win convictions—and it is easy to see why:
+The law was held in contempt by the people the juries were being drawn from.
+Bonsteel Tachau notes, for instance, that “[i]n one term of court alone, five members of the jury panels were themselves defendants in cases brought by Clarke.”
+
+The successful resistance by people in Kentucky against attempts to prosecute tax resisters continued until the tax resistance movement could claim victory with the election of president Thomas Jefferson, who promised to rescind the tax.
+
+## Rebecca Riots
+
+During one of the tollgate destructions that marked the Rebecca Riots in Wales, a woman who was in charge of the toll house rushed back to try to save it from the flames.
+She was shot and killed, presumably by one of the Rebeccaites.
+
+> [A]n inquest was held… on the body were marks of shot, some penetrating the nipple of left breast, one in the armpit of the same side, and several shot marks on both arms. On the external end of the left clavicle there were two shot-marks, one on the left side of the windpipe. There were several on the forehead, and on the external angle of the right eye. Two shots were found in the left lung. In spite of all this, the jury found “that the deceased died from effusion of blood into the chest, which occasioned suffocation, but from what cause is to this jury unknown”!!!
+
+Because the inquest refused to find the cause of death to be homicide, even in the face of such clear evidence, it was difficult for the government to launch an investigation, make arrests, or begin a prosecution.
+
+## Colonial Connecticut
+
+A government may try to counteract the threat of jury nullification by transporting defendants to a more sympathetic jurisdiction, or it may try to hand-pick a “hanging jury” to ensure conviction, but either of these gambits risks further alienating people and bolstering the credibility of the resisters’ arguments about the faithlessness and illegitimacy of the government (and therefore about the need to resist its taxes).
+
+For example, the governor of colonial Connecticut put members of the Ipswich town meeting on trial after they refused to assess taxes the governor had tried to impose without the consent of the colonial Assembly.
+The trial was a sham—the jury was hand-picked by the prosecution, and the judge referred to the defendants as “criminals” throughout the course of the trial and told them they “must not think the privileges of English men would follow [them] to the end of the world.”
+
+But that is exactly what the resisters did think, and when, enraged by this sort of tyranny, they overthrew the colonial government, they threw that quote back in the faces of the governor and the judge and imprisoned both of them.
+
+<hr />
+
+<details>
+<summary>Notes and Citations</summary>
+
+* Marx, Karl “No Tax Payments!” <i>Neue Rheinische Zeitung</i> No. 145, 17 November 1848 (special supplement), translated by the Marx-Engels Institute
+* Marx, Karl “The Tax-Refusal Trial” <i>Neue Rheinische Zeitung</i> No. 218, 10 February 1849, translated by the Marx-Engels Institute
+* Wilson, Edmund <i>To the Finland Station</i> (2003 NY Review of Books edition, p. 170)
+* Bonsteel Tachau, Mary K. “The Whiskey Rebellion in Kentucky: A Forgotten Episode of Civil Disobedience” <i>Journal of the Early Republic</i> Vol. 2, No. 3 (Autumn, 1982), pp. 239–59
+* Evans, Henry Tobit <i>Rebecca Riots!</i> (2010 ed.) p. 152
+* Neal, Daniel <i>The History of New-England</i>, Vol. II (1747) p. 65
+
+</details>

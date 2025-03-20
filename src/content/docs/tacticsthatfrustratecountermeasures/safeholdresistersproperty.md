@@ -1,0 +1,39 @@
+---
+title: Hold Resisters’ Property in Others’ Names
+description: Hide property from seizure by holding it in other peoples’ names.
+sidebar:
+  order: 6
+---
+A common government gambit in its battle against tax resisters is to say “if you won’t pay taxes ‘voluntarily,’ we’ll seize your property instead.”
+
+Some tax resisters have responded to this by taunting back: “you’ll have to find it first.”
+One way they have made good on this is by arranging for other people to hold the resisters’ property in their names.
+
+For example, some war tax resistance “alternative funds,” into which resisters pay their taxes rather than submitting them to the government, have a dual purpose: they redirect tax money to causes the resisters find more palatable than government expenses (see redirect resisted taxes to charity), and they form a fund that, although it is not officially in their names, resisters can later reclaim if the government succeeds in seizing taxes from them.
+
+## Ammon Hennacy
+
+The tax collector was so frustrated in trying to seize anything at all from tax resister Ammon Hennacy that, when Hennacy was picketing the IRS office one day, the agent assigned to his case walked up to him and seized his picket sign—telling him he planned to auction it off!
+The next day, Hennacy was picketing again with some new signs that he and a friend had hastily made the night before… each one carefully marked “this sign is the personal property of Joseph Craigmyle.”
+
+## The Tithe War
+
+In the Irish Tithe War, sympathetic farmers would give temporary pasturage to the livestock of resisters when seizures were impending:
+
+> An organised system of confederacy, whereby signals were, for miles around, recognised and answered, started into latent vitality. True Irish “winks” were exchanged; and when the rector, at the head of a detachment of police, military, bailiffs, clerks, and auctioneers, would make his descent on the lands of the peasantry, he found the cattle removed, and one or two grinning countenances occupying their place. A search was, of course, instituted, and often days were consumed in prosecuting it.
+
+## American Quakers
+
+In 1983 the Friends General Conference put an ad in the Friends Journal that encouraged Quakers to give interest-free loans to the Conference as a way to “reduce their income taxes while retaining financial security for themselves and their families.”
+In essence: the Conference would collect any interest on the funds as a donation, and in return it would hold the donor’s assets in a way that was non-reportable to the IRS, while being willing to return the principal to the donor on 30-days’ notice.
+
+<hr />
+
+<details>
+<summary>Notes and Citations</summary>
+
+* Hennacy, Ammon “My First Fast and Picketing” <i>We Won’t Pay: A Tax Resistance Reader</i> (2008) p. 385
+* Fitzpatrick, William John <i>The Life, Times, and Correspondence of the Right Rev. Dr. Doyle</i>, Vol. II (1862) pp. 47–48
+* “Give Money Without Giving Your Money Away” (ad) <i>Friends Journal</i> 15 March 1983, p. 21
+
+</details>

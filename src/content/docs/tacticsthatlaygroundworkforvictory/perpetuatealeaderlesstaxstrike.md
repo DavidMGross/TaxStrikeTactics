@@ -1,0 +1,92 @@
+---
+title: Help Perpetuate an Unorganized, Leaderless, Tax Strike
+description: A quiet, leaderless tax strike that never forms an organization can be nonetheless powerful enough to make the offensive tax a dead letter.
+sidebar:
+  order: 4
+---
+It is possible to perpetuate a quiet, leaderless tax strike that never forms an organization or runs a formal campaign, but is nonetheless so powerful and successful that it makes the offensive tax a dead letter.
+
+Yale professor James C. Scott studies leaderless, grassroots resistance—and he has noted some examples of tax resistance that follow this pattern.
+Such “everyday resistance,” as he calls it, has many advantages:
+it is hard for the government to combat, it can snowball under its own momentum, and it promises an easy payoff to individual resisters without requiring much risk or responsibility.
+“[T]he peasantry’s most common and durable weapon,” Scott says, “is an everyday resistance that stops short of the more dangerous forms of overt protest and confrontation.”
+
+> Everyday resistance does not throw up the manifestos, demonstrations, or pitched battles that normally compel attention. It makes no headlines. But just as millions of anthozoan polyps create, willy-nilly, a coral reef, so do thousands of individual acts of insubordination and evasion create a political and economic barrier reef of their own. There is rarely any dramatic confrontation, any movement that is particularly newsworthy. And whenever, to pursue the simile, the ship of state runs aground on such a reef, attention is typically directed to the shipwreck (for example, a fiscal crisis) itself and not to the vast aggregation of petty acts that made it possible.
+
+For example, when the government of Malaysia nationalized the traditional Islamic tithe in 1960, made it mandatory, set its rate, and started assessing the property of farmers to determine how much they must pay, the farmers developed a variety of strategies to reduce the tithe to levels they felt were more appropriate.
+Scott summarizes the resistance this way:
+
+> There have been no tithe riots, no tithe demonstrations, no petitions, no violent confrontations, no protests of any kind. Why protest, indeed, when quieter stratagems have achieved the same results at minimal risk? …it is the safer course for resisters to leave the tithe system standing in name while they dismantle it in practice… without affording the state an easily discernible target. There is no organization to be banned, no conspiratorial leaders to round up or buy off, no rioters to haul before the courts—only the generalized non-compliance by thousands of peasants.
+
+Because members of the exploited class typically lack meaningful access to the legislative and administrative levers of power, they wisely take their political stand instead at the point of enforcement.
+As Thoreau put it:
+
+> I meet this American government, or its representative the State government, directly, and face to face, once a year, no more, in the person of its tax-gatherer; this is the only mode in which a man situated as I am necessarily meets it; and it then says distinctly, Recognize me; and the simplest, the most effectual, and, in the present posture of affairs, the indispensablest mode of treating with it on this head, of expressing your little satisfaction with and love for it, is to deny it then.
+
+Some taxes are just so widely ignored and difficult to enforce that though they remain on the books, they exist only in a state of hibernation.
+For example, those American states that have a sales tax cannot enforce that sales tax on merchants from other states—so when their subjects purchase products from out-of-state vendors, the states try to recover their cut by means of a “use tax” that is due from the purchaser.
+This means that anyone who orders something from a catalog or from an out-of-state vendor on the internet is supposed to keep careful track of how much they’ve spent on such things throughout the year and then write a check to their state government for the use tax.
+In practice, almost nobody does this, and the tax might as well not be on the books at all, at least as it applies to the ordinary consumer.
+
+## Pennsylvania Women
+
+Here is one example of a grassroots, leaderless, tax strike:
+Shortly after women in Pennsylvania won the vote they discovered that they’d become taxed as a booby prize.
+Many found the bargain unsatisfactory and refused to pay.
+They were also upset that the tax exempted people in urban areas (Philadelphia and Pittsburgh), which put the burden of the tax on rural families.
+Resistance sprung up all across the state, without any hints of formal organization that I have been able to uncover, and persisted for several years.
+It had the authorities thoroughly stymied.
+Some news accounts from the period gave counts of resisters in different regions, including:
+
+* 89 women in Pottstown
+* 300 women in Darby
+* 1,700 women in Charleroi
+* 800 women in Haverford
+* 250 women in Media
+* 700 women in Clifton Heights
+* 200 women in Freeland
+
+On occasion, a contracting tax collector would go back to the government and request that the resisting women be stricken from the tax rolls so that the collector would not be responsible for their taxes.
+Sometimes such requests were granted—as in the case of Clifton Heights, where those women who <em>had</em> paid up then indignantly demanded refunds.
+
+With resisters numbering in the thousands, and resistance taking place over several years, this was one of the major tax rebellions in American history.
+Yet because it had no leaders or formal organization, issued no manifestos or petitions, and never held big, photogenic rallies or marches, it is nearly unsung in the historical record.
+
+## What It Takes
+
+Scott says that there are three factors that contribute to the adoption of “everyday resistance”:
+
+1. “a palpable ‘climate of opinion’”—a widespread belief that the tax is unjust and that resistance is proper
+1. “a shared knowledge of the available techniques of evasion”
+1. “economic interest”—the fact that it is personally economically advantageous to resist paying the tax
+
+Together these “can produce a form of tacit coordination that mimics or substitutes for formal organization.”
+
+Scott says that once tax resistance becomes normal, it becomes lawful by a sort of shared consensus, whatever the actual statutes say.
+A government that decides to begin trying to enforce the law in defiance of this consensus must exercise extraordinary effort to do so, and will probably be seen as exceeding its authority.
+
+He suggests that “the social historian could profitably examine the role of petty tax resistance in producing, over time, the ‘fiscal crisis of the state’ which frequently presages radical political change.
+Here too, without intending it, the small self-serving acts of thousands of petty producers may deprive a regime of the wherewithal to maintain its ruling coalition and prevail against its enemies.”
+
+<hr />
+
+<details>
+<summary>Notes and Citations</summary>
+
+* Scott, James C. “Resistance without Protest and without Organization: Peasant Opposition to the Islamic Zakat and the Christian Tithe” <i>Comparative Studies in Society and History</i> July 1987, pp. 417–52
+* Scott, James C. <i>Weapons of the Weak: Everyday Forms of Peasant Resistance</i> (1985) p. 36
+* Thoreau, H.D. [“Resistance to Civil Government”](https://sniggle.net/TPL/index5.php?entry=rtcg)
+* Joffe-Walt, Chana “Most People Are Supposed To Pay This Tax. Almost Nobody Actually Pays It” <i>Planet Money</i> 16 April 2013
+* “Eighty-Nine Women Refuse to Pay School Tax” <i>Reading Eagle</i> 25 February 1923, p. 30
+* “6 Women Defy Tax Collector” <i>The Nevada Daily Mail</i> 4 May 1927, p. 1
+* “Charleroi School Tax Delinquents To Be Arrested” <i>Washington Reporter</i> 28 May 1924, p. 3
+* “Haverford Women Must Pay Taxes” <i>Chester Times</i> 16 July 1923, p. 2
+* “School Taxes Must Be Paid” <i>Chester Times</i> 2 July 1923, p. 5
+* “Tax Question in Clifton Heights” <i>Chester Times</i> 4 October 1924, p. 3
+* “Women Must Pay or Go to Prison, Court Decides” <i>Wellsboro Agitator</i> 27 October 1926, p. 8
+* “Tax Collector Crawford Speaks” <i>Chester Times</i> 9 October 1924, p. 3
+* Scott, James C. “Everyday Forms of Resistance” in Colburn, Forest D. <i>Everyday Forms of Peasant Resistance</i> (1989) p. 12; In “Resistance Without Protest…” op. cit., Scott refines this to:
+  > the conjunction of a folk culture that encourages some forms of resistance, a set of habits and practices that are part of the practical heritage of the peasantry, and a shared material interest in thwarting appropriation [that] can produce a form of tacit coordination that mimics or substitutes for formal organization.
+* Scott, James C. “Dissimulation in Practice: Resistance to the tithe in France and Malaysia; below the radar” <i>Decoding Subaltern Politics: Ideology, disguise, and resistance in agrarian politics</i> (2013) p. 93
+
+</details>

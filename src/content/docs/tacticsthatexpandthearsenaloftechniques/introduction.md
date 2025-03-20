@@ -1,0 +1,9 @@
+---
+title: Introduction
+description: This chapter describes techniques that are either varieties of tax resistance or have been used to supplement a tax resistance campaign.
+sidebar:
+  order: 1
+---
+When you introduce new resistance techniques, you stay one step ahead of government countermeasures, you keep your movement from growing stale and becoming “yesterday’s news,” and you bring in new resisters who find the new techniques more appealing or practical than the old ones.
+
+This chapter describes techniques that are either varieties of tax resistance or have been used to supplement a tax resistance campaign.

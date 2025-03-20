@@ -1,0 +1,68 @@
+---
+title: Hide Taxable or Seizable Assets
+description: Hide assets from the reach of the tax collector or assessor.
+sidebar:
+  order: 7
+---
+One way to resist taxes—and to resist the sort of property seizure that governments sometimes inflict on tax resisters—is to hide assets from the reach of the tax collector or assessor.
+
+## Charles Merrill
+
+For example, Charles Merrill, who resisted his taxes as a way of protesting for the legal recognition of same-sex marriage in the United States, said that he had buried a hoard of $2 million in gold coins in the desert.
+“My partner doesn’t even know where it is at,” he said.
+“If the IRS allows me to file a joint federal income tax form like any other married couple, the money is there to pay.”
+
+## Doukhobor Refugees
+
+When Russian refugees of the Doukhobor sect refused to pay school taxes on their farmland in Canada (reasoning that since they would not send their children to godless Canadian schools, they shouldn’t have to pay for them), they anticipated that the government might resort to property seizure.
+So they “very thoughtfully lost no time in taking their crops from the land within the Langham school district.”
+
+## Edward Koryto and the Hut Tax Rebels
+
+A more drastic way of keeping the tax collector from your door is to <em>demolish your house</em>.
+
+Michigan factory worker Edward Koryto did that in 1971 to a home he had spent seven years building from scrap lumber, after tax assessors nearly tripled its assessed value, which raised the property taxes by 150%.
+
+In Sierra Leone in 1898, collectors of a new five shilling per year “hut tax” found fewer huts than they expected:
+
+> In many cases the huts are not worth 5s, and when the tax collectors went round in January last many of the people knocked down their huts and slept under trees.
+
+## American Quakers
+
+American Quaker war tax resister and architect Robert E. Dickinson wrote a curious piece for the Friends Journal, accompanied by photos, about “My Tax Refusal Furniture”:
+
+> Like some other Friends, for several years I have refused to pay the war tax part of my telephone bills. After notices and visits from representatives of the Internal Revenue Service, I was served with a notice for seizure of my property, including my furniture.
+>
+> This was all the inspiration I needed to design a basic set of furnishings that easily could be moved or disposed of.…
+>
+> When the authorities are at the door, the furniture can be demounted to flat slabs of plywood for ease in moving and storage.
+
+American Quaker Wendal Bull resisted war taxes by keeping his income below the taxable level.
+But in 1959 he received a large one-time payment that pushed him over the limit, so he had to get creative:
+
+> I distributed the unexpected income to various anti-war organizations. I anticipated pressure from IRS officers, so in the autumn, long before the tax would be due, I disposed of all my attachable properties. This action, under the circumstances, I believe to be unlawful. But it seemed to me a mere technicality, far outweighed by the sin of paying for war, or the sin of permitting collection of the tax for that purpose.…
+
+> It is inconvenient to have no checking account, to own no real estate, to drive an old jalopy not worth attaching, and so on. Some of us choose this alternative rather than to let the money be collected by distraint.
+
+The IRS seized Paula Rogge’s car and auctioned it off to recover back taxes.
+At first, her supporters tried to disrupt the auction by protesting it and by discouraging bidders, but a used car dealer eventually did purchase the seized car.
+Rogge explains what happened next:
+
+> A week following the auction, a doctor I had once worked with phoned and said that he wanted to buy the car back from the car dealer and donate it anonymously to our practice. That was such a wonderful surprise. I was very moved because I respected him very much as a doctor. I talked the offer over with friends. Though I didn’t want the money going, even indirectly, to the IRS, I did want this doctor to have an opportunity to support the whole cause of war tax resistance, and this was his way of contributing. I decided to accept the car. It came back with new tires, looking much cleaner than it had before it was seized! A friend of the doctor had also done a tune-up on it—and it was great. I think the best part of this story is that when I tell it, people chuckle. You see, it’s such a good example of how limited the power of the IRS is in the face of creative resistance. It’s also an example of how our needs are often met in unexpected ways when we take a stand for peace.
+
+Because the donor gave the car to the clinic rather than to Rogge, this meant that it would no longer be an asset in Rogge’s name that the IRS could seize.
+
+<hr />
+
+<details>
+<summary>Notes and Citations</summary>
+
+* “Merrill Hides Gold Hoard” (press release from “Taxation Without Representation for Gay Couples”) 18 July 2008
+* “Won’t Pay School Taxes” <i>The Montreal Gazette</i> 12 September 1906, p. 2
+* Bennett, Piet “House Torn Down In Protest of Taxes” <i>The [New London, Connecticut] Day</i> 25 May 1971, p. 5
+* “West African Trouble” <i>Poverty Bay Herald</i> 22 April 1898, p. 3
+* Dickinson, Robert E. “My Tax Refusal Furniture” <i>Friends Journal</i> 1 March 1970, p. 145
+* Bull, Wendal “Refusing War Taxes” (letter) <i>Friends Journal</i> 1 May 1979, p. 18
+* Van Haitsma, Susan “A Doctor’s Peace Testimony” <i>Friends Journal</i> Feb. 1994, pp. 10–12
+
+</details>

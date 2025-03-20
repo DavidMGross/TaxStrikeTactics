@@ -1,0 +1,73 @@
+---
+title: Defy Conditions of Tax-Exemption, Deliberately Incur then Resist a Tax
+description: An unusual method of tax resistance is to deliberately make yourself taxable in order to owe a tax that you can then resist.
+sidebar:
+  order: 18
+---
+An unusual method of tax resistance is to deliberately make yourself taxable in order to owe a tax that you can then resist, or, similarly, to defy some legal condition of your tax-exempt status so as to become subject to a tax that you can then refuse to pay.
+For example:
+
+## Get a Dog to Resist the Dog Tax
+
+Anne Cobden Sanderson of the Women’s Tax Resistance League noted that only some women were subject to the income tax, but thought this shouldn’t discourage other women who wanted to become tax resisters.
+“Everyone who perhaps has not an income to be taxed can have a dog, and then refuse to pay [the dog license] tax.”
+<i>The New York Sun</i> editorialized:
+
+> By buying up dogs of all sorts and refusing to pay the licenses the suffragettes may get into jail with facility and honor. Why place a bomb on the front porch or spread carbolic acid in a mail box, when you may get jugged just as well merely by refusing to pay your dog tax?
+>
+> If one dog sent you to prison for one month, how many months would you be forced to serve if you owned 100 or 200 dogs? Meanwhile you might put on all the dogs blankets inscribed “Votes for Women” and turn them loose in the Strand to the confusion of the bobbies and Parliament.
+
+## Resisting Taxes on Phantom Income
+
+War tax resister Ed Hedemann suggests that people in the United States who do not owe income taxes because their income is too low, but who want to be income tax resisters, deliberately inflate their declared income with “phantom income” when they file their tax returns so that they owe some small amount that they can then resist.
+
+## Pulpit Freedom Sunday
+
+A number of American preachers have made explicit political endorsements from the pulpit—and have even recorded these endorsements and sent the recordings to the government as proof.
+In the United States, tax-exempt organizations like churches are not permitted to engage in political campaigns in this way.
+The churches are daring the IRS to rescind the tax exemption of their churches, and have framed it as a freedom-of-speech/freedom-of-religion issue.
+Over the last several years, the number of churches participating in this protest tactic has risen from a few dozen to over a thousand, but the IRS has yet to take up their challenge.
+
+## Troubles with Tax-Exempt Status
+
+The legal conditions of tax-exempt, nonprofit status in the United States have proven to be a powerful way for the government to make activist groups timid.
+
+At one point the largely-liberal-leaning staff of the IRS was caught applying extraordinary and extra-legal scrutiny to the applications for tax-exempt status made by conservative groups.
+In one case, they told the board of an anti-abortion group to sign an affidavit swearing that the group would not hold or sponsor protests at family planning clinics, as a condition of being granted tax-exempt status.
+Another anti-abortion group was told that because its outreach material was “condemnatory and opinionated” with “no intelligent discussion of the subject of abortions” and because its activities “are designed to influence public opinion in favor of its advocated position” the group risked having its application denied.
+
+Anti-abortion tax resister Jerry DePyper noted that this sort of thing has been successful at intimidating the larger anti-abortion groups and was a big reason why he was making no headway in trying to get the tax resistance tactic on their agenda.
+He spoke with two leaders in that movement and said:
+“Both… say that no recognized pro-life leader would want to risk it because of the legal issues with the IRS, and they don’t want to lose their tax-exempt status.”
+
+Ruth Benn of NWTRCC had a similar experience:
+
+> I was talking about a potential war tax resistance workshop with a group for which I have great respect and who are very supportive of war tax resistance. When I suggested a certain activity as part of the workshop, the organizer hurriedly said, “Oh, no, we couldn’t sponsor that; we’re 501(c)3 [the section of the legal code that governs tax-exempt non-profits].”
+
+For this and related reasons, some tax resisting groups, like Catholic Worker and NWTRCC, have never tried to apply for tax-exempt nonprofit status.
+In 1972 the IRS told Catholic Worker that it owed some $300,000 in taxes and penalties because of this (the tax agency eventually retreated, acknowledging that Catholic Worker was a <i>de facto</i> nonprofit charity, even if it was never going to fill out the <i>de jure</i> paperwork).
+
+This episode turned out to be a good propaganda opportunity for Catholic Worker.
+The <i>New York Times</i> editorialized:
+“Surely the IRS must have genuine frauds to investigate.
+Surely there must be some worthwhile work this agency could be doing instead of obstructing acts of corporal mercy for the poor.”
+Dorothy Day added:
+
+> The <i>New York Evening Post</i> also editorialized on our situation. The <i>National Catholic Reporter</i> and the <i>Commonweal</i> editors also registered their protest and other papers followed suit. Letters come in daily from our friends, reassuring, comforting, indignant at the government, a few of them indignant at us, that we cause them so much worry.…
+>
+> …[T]he CW refuses to pay taxes, or to “structure itself” so as to be exempt from taxes. We are afraid of that word “structure.” We refuse to become a “corporation.”… [W]e do not intend to “incorporate” the Catholic Worker movement.
+
+<hr />
+
+<details>
+<summary>Notes and Citations</summary>
+
+* “Trafalgar Square Mass Meeting: Mrs. Cobden Sanderson” <i>The Vote</i> 15 October 1910, p. 291
+* “Dog Tax Strike Is Mrs. Snowden’s Plea” <i>New York Sun</i> 13 February 1913
+* “Phantom Income” <i>More Than a Paycheck</i> June 2012, p. 2
+* DePyper, Jerry “Luke 13:6–9” <i>Pro-life strike/abortion boycott</i> 14 December 2011
+* Benn, Ruth “Nonprofits and Tax-Exempt Status” <i>A Collection of Readings on Money: By, For, and About War Tax Resisters and Resistance</i>
+* Seigel, Max “Imagination, Please” <i>New York Times</i> 24 May 1972
+* Day, Dorothy “On Pilgrimage” <i>The Catholic Worker</i> June 1972
+
+</details>

@@ -1,0 +1,82 @@
+---
+title: Engage in Social Boycott of Tax Collectors and Collaborators
+description: Make them pariahs and refuse to have anything to do with them.
+sidebar:
+  order: 11
+---
+One way to discourage tax collectors and collaborators with the tax system is to make them pariahs and refuse to have anything to do with them.
+
+## Roman-Occupied Judaea
+
+Historian Adolf Hausrath noted how potent a tactic this was during the Roman occupation of Judaea:
+
+> The people knew how to torment these officials of the Roman customs with the petty cruelty which ordinary people develop with irreconcilable persistency, whenever they believe this persistency to be due to their moral indignation. In consequence of the theocratic scruples about the duty of paying taxes, the tax-gatherers were declared to be unclean and half Gentile.… among the Jews the words “tax-gatherers and sinners,” “tax-gatherers and Gentiles,” “tax-gatherers and harlots,” “tax-gatherers, murderers, and robbers,” and similar insulting combinations, were not only ready on the tongue and familiar, but were accepted as theocratically identical in meaning. Thrust out from all social intercourse, the tax-gatherers became more and more the pariahs of the Jewish world.… Their testimony was not accepted by Jewish tribunals. It was forbidden to sit at table with them or eat of their bread. But their money-chests especially were the summary of all uncleanness and the chief object of pious horror, since their contents consisted of none but unlawful receipts, and every single coin betokened a breach of some theocratic regulation. To exchange their money or receive alms from them might easily put a whole house in the condition of being unclean, and necessitate many purifications. From these relations of the tax-officials to the rest of the population, it can be readily understood that only the refuse of Judaism undertook the office.
+
+This, as you can imagine, made it difficult and costly for the Roman empire to find respectable locals to help them put a friendly Jewish face on the occupation and its tax administration.
+
+## American Revolution
+
+A social boycott of tax collectors was practiced during the American revolution.
+“So triumphant is the spirit of liberty everywhere,” wrote John Adams, that:
+
+> The freemen of Talbot county, in Maryland, have erected a gibbet before the door of the court-house, twenty feet high, and have hanged on it the effigies of a stamp informer in chains, <i>in terrorem</i> till the Stamp Act shall be repealed; and have resolved, unanimously, to hold in utter contempt and abhorrence every stamp officer, and every favorer of the Stamp Act, and to “have no communication with any such person, not even to speak to him, unless to upbraid him with his baseness.”
+
+## Whiskey Rebellion
+
+During the Whiskey Rebellion, the rebels passed an eloquent social boycott resolution that said in part:
+
+> …[W]hereas some men may be found amongst us, so far lost to every sense of virtue and feelings for the distresses of their country, as to accept the office of collector of the duty:
+>
+> Resolved, therefore, that in future we will consider such persons as unworthy of our friendship, have no intercourse or dealings with them, withdraw from them every assistance, withhold all the comforts of life which depend upon those duties that as men and fellow citizens we owe to each other, and upon all occasions treat them with that contempt they deserve; and that it be, and it is hereby most earnestly recommended to the people at large to follow the same line of conduct towards them.
+
+## Indian Independence Movement
+
+In the Bardoli tax strike, resisters shunned tax collectors and collaborators.
+Moderate reformist K.M. Munshi reported back to the government after visiting Bardoli:
+
+> Your <i>japti</i> officer has to travel miles before he can get a shave. Your officer’s car which got stuck would have remained in the mud but for Mr. Vallabhbhai, officially styled “agitator living on Bardoli.” Garda to whom lands worth thousands have been sold for a nominal amount does not get even a scavenger for his house. The Collector gets no conveyance on the railway station unless one is given by Mr. Vallabhbhai’s sanction.
+
+The threat of social boycott also played out at other points in the Indian independence struggle.
+For instance, one account of the Dharasana salt raid noted that “the native police, fearing social boycott if they pressed their own kinsmen too hard, in some cases sat idly by and watched proceedings.”
+
+When the salt march was approaching the sea, where Gandhi planned to harvest sea salt in circumvention of the taxed salt monopoly, the government sent police and hired hundreds of other people to go there and try to thwart his plans.
+However:
+
+> The police and labourers are boycotted by the villagers in the neighbourhood and have to journey to a village ten miles away to procure food.
+
+## Annuity Tax Resistance
+
+The Edinburgh Annuity Tax resisters practiced social boycott against tax enforcers:
+
+> Of late months, no auctioneer would venture to the Cross to roup for stipend. What human being has nerve enough to bear up against the scorn, hatred, and execration of his fellow-creatures, expressed in a cause he himself must feel just?
+
+> The cabman who brought the officers, seeing they were engaged in such a disagreeable duty, took his cab away, and they had some difficulty in procuring another…
+
+During the government investigation of the Annuity Tax resistance campaign the following exchange took place:
+
+> Q: What was Mr. Whitten’s express reason for declining to act as auctioneer?
+>
+> A: He was very much inconvenienced on that occasion, and he believed that his general business connection would suffer by undertaking these sales, and that he would lose the support of any customer who was of that party.
+
+## Fries Rebellion
+
+During the Fries Rebellion, social pressure made it difficult for the government to recruit collaborators:
+
+> [I]n every tavern [Jacob Eyerley] stopped at, the law was the subject of general conversation and denunciation, and great pains were taken to find the friends of government, in order to persuade them not to accept the office of assessor. In consequence of this feeling there was great difficulty in finding suitable persons for these appointments.
+
+<hr />
+
+<details>
+<summary>Notes and Citations</summary>
+
+* Hausrath, Adolf <i>A History of the New Testament Times</i>, Vol. II (1880) pp. 79–83
+* Adams, John, diary entry dated 2 January 1766, <i>The Works of John Adams</i>, Vol. II (1850), p. 173
+* Brackenridge, H.M. <i>History of the Western Insurrection</i> (1859), p. 37
+* Munshi, K.M., quoted in Desai, Mahadev <i>The Story of Bardoli</i> (1929) p. 217
+* “Official, 8 Die in India Riots, 550 Wounded” <i>New York Evening Post</i>, 26 May 1930, p. 1
+* “Civil Disobedience” <i>The Canberra Times</i> 29 March 1930, p. 5
+* “The Passive Resistance of Edinburgh, to the Clergy-Tax.” <i>Tait’s Edinburgh Magazine</i>, September 1833, p. 801
+* “Minutes of Evidence” <i>Report from the Select Committee on the Edinburgh Annuity Tax Abolition Act (1860) and Canongate Annuity Tax Act</i>, p. 88
+* Davis, W.W.H. <i>The Fries Rebellion</i> (1899) p. 38
+
+</details>

@@ -1,0 +1,9 @@
+---
+title: Introduction
+description: As your resistance campaign becomes more successful, the government will use increasingly fierce and desperate methods to fight back.
+sidebar:
+  order: 1
+---
+Governments fight back against tax resisters and tax resistance campaigns with a variety of weapons.
+They may arrest and detain resisters, seize and sell their property, declare them outlaws, exile them, and so forth.
+Your resistance campaign should anticipate that as it becomes more successful, the government will use increasingly fierce and desperate methods to fight back—and you should be prepared to adopt tactics that limit the effectiveness of these countermeasures.

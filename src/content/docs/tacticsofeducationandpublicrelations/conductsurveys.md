@@ -1,0 +1,41 @@
+---
+title: Conduct Surveys to Gauge Support
+description: Some movements have also found that conducting surveys allows for outreach that has a value beyond that of collecting information.
+sidebar:
+  order: 5
+---
+By conducting surveys, tax resistance movements can gauge how willing people might be to join or support a resistance campaign and can also more-confidently reassure potential resisters that they will not be alone.
+Some movements have also found that conducting surveys allows for outreach that has a value beyond that of collecting information.
+
+Opponents of a new water charge in Dublin were told by the government that they were a radical fringe of unrepresentative malcontents and that most citizens supported the new tax.
+The Secretary of the Federation of Dublin Anti Water Charge Campaigns remembers:
+
+> Our immediate response was to challenge his contention and to propose a survey of the area to find out what people really thought, and a further public meeting to report the findings. Within 15 minutes we had a dozen volunteers to carry out the survey and these went on to form the nucleus of what became one of the most active campaign groups in the federation. The follow-up meeting 3 weeks later heard that something like 85% of the local residents opposed the tax. The fact of carrying out this survey gave everybody the confidence that the silent majority were with us, and for those who carried out the survey, they realised that it wasn’t such a difficult thing to knock on their neighbours’ doors and talk to them and it gave them the confidence to go on to become key campaign activists.
+>
+> It’s something I would recommend that campaigners try—doing a survey such as this or even collecting a petition in an area, knocking on doors and talking to people about the issue gives those people who we are hoping will become campaign activists a sense of ownership of the local campaign as well as demonstrating quite clearly the strength of feeling on the issue. People need to feel that it’s their campaign—not one either owned by or controlled by any political organisation or party.
+
+In the anti-poll tax movement in Thatcher’s Britain, a Bristol organizer remembers that his neighborhood group “was strengthened by a door-to-door survey of over 500 households”:
+
+> The survey was not intended to be scientifically accurate. Its purpose was to give the APTU [anti-poll tax union] a fairly accurate picture of what was happening on the ground, and, perhaps more significantly, it was a pretext for engaging people in conversation about the Poll Tax, informing them of the non-payment campaign and encouraging them to join their local APTU. The results were interesting. Only 20% said that they would definitely pay. The same number said that they would definitely not, but more significantly, 55% said that they wouldn’t pay if a lot of other people in the area weren’t paying either. So even at this early stage we knew that non-payment was going to be massive. Over a third of the people canvassed became paid up members of the union. By the end of the exercise Easton had over 300 members and street reps for almost every street.
+>
+> The canvass was not left there. The key to its success was the second visit. The group compiled all the statistics on a street by street basis and many of the reps then went back, door-to-door, and told people the results of the survey in their street and the neighbouring streets. A newsletter was delivered to everyone telling them what the overall results were for Easton. This meant that people knew how few of their neighbours were going to pay and it gave them confidence not to pay themselves. They had spoken to the canvassers personally, so they knew that the survey was genuine.
+
+In 2006 NWTRCC surveyed tax resisters, former resisters, and anti-war activists who had never resisted taxes, to find out how they felt about war tax resistance.
+They used some of the information—for instance a question for the never-resisted group about their reasons for not resisting—to help them refine their outreach message.
+Almost two-thirds of those activists answered “yes” to the question:
+
+> Would you consider participating in a <em>one-year commitment</em> to refuse a portion of your federal income taxes and redirect your taxes to a humanitarian cause if thousands joined you publicly?
+
+This encouraging response led the group to launch what it called the “2008 War Tax Boycott.”
+Although the Boycott itself did not generate the hoped-for “thousands,” the group found it to be a useful outreach platform, and continued to use it in subsequent years.
+
+<hr />
+
+<details>
+<summary>Notes and Citations</summary>
+
+* Kerr, Gregor “Lessons from beating the water charges”
+* Burns, Danny <i>Poll Tax Rebellion</i> (1992) pp. 59–60
+* “WTR Survey—Some Preliminary Results and Small Group discussions” from the NWTRCC website
+
+</details>

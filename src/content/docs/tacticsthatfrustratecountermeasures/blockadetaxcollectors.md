@@ -1,0 +1,113 @@
+---
+title: Block Tax Collectors and Enforcers with Barricades or Blockades
+description: Tax resisters and tax resistance campaigns have at times used barricades, blockades, and occupations to keep tax collectors at bay.
+sidebar:
+  order: 10
+---
+Tax resisters and tax resistance campaigns have at times used barricades, blockades, and occupations to keep tax collectors at bay.
+
+## The Women’s Suffrage Movements
+
+For example, there were a number of prominent “sieges” in the tax resistance campaign that accompanied the British women’s suffrage movement.
+Dora Montefiore barred the doorway of her home against the bailiffs in 1906 and held out for six weeks before they broke through—all the while “addressing the frequent crowds through the upper windows of the house.”
+
+> WSPU [Women’s Social and Political Union] meetings were held in front of the house daily, and resolutions were taken “that taxation without representation is tyranny.” After six weeks, the Crown was legally authorized to break down the door in order to seize property in lieu of taxes, a process to which Montefiore submitted, saying, “It was useless to resist <i>force majeure</i> when it came to technical violence on the part of the authorities.”
+
+The “Siege of Montefiore” was a publicity coup for the movement, and served as a useful rallying point for activists.
+
+> On the little terrace of the front garden hung during the whole time of the siege a red banner with the letters painted in white: “Women should vote for the laws they obey and the taxes they pay.”
+
+Kate Harvey barricaded her home in 1912. It took seven months for the authorities to crowbar their way in and seize her dining room furniture to auction for back taxes. The Women’s Freedom League reported:
+
+> Passers-by read the bold declaration that she refuses to be taxed by a Government that refuses her representation because she is a woman. Her continued resistance has aroused keen interest in the London and Provincial Press, and afforded excellent “copy” for numerous illustrated papers.
+
+The following year she built a stronger barricade. After trying in vain for two hours to wrestle their way in, officers resorted to a battering ram:
+
+> Finally, after a heavy beam was used as a battering ram, the door went in with a crash. The door, however, led only to a narrow passage, where a still more obstinate door barred the way. A crowbar, battering ram, and a small jemmy were here brought into use, but even with those it was nearly half an hour before the door, almost splintered, gave way. Later, the hall was entered, where the tax collector was met by Mrs. Harvey and Mrs. Despard. Here was little furniture visible, and it was not until a locksmith had forced the door of the dining room that the bailiff was able to place his levy upon goods. The amount of the tax, it is understood, is about £15.
+
+When the tax collector and bailiff came to seize goods from Isabella Harrison,
+
+> [She] gave instructions for the tradesmen’s entrance and windows to be locked and bolted, and herself opened the inner front door, closing it behind her and keeping her hand on the handle. The Tax Collector, who was standing with the bailiff inside the outer front door, asked if he was addressing Mrs. Darent Harrison, and hoped she would allow him to execute his trying task and produced his paper. Mrs. Harrison asked and was told the names of the local magistrates who had signed the warrant, and explained that her house could only be entered by force.… The Tax Collector protested that he could not employ force against a woman—that was quite out of the question. Mrs. Harrison then suggested that if he did not intend to stand there till he or she collapsed he must either employ force or call in the police to do so. He scoffed at the idea of sending for the police, but finally sent the bailiff to see if he could find any. But no police were to be found. The bailiff was next sent to get his dinner, and when he returned he reported “still no police anywhere to be found.” It was a complete impasse. They had been facing one another for three hours, and the Tax Collector seemed equally determined to “do his duty” and not to be guilty of even a technical assault on an elderly woman. It was only after being taunted with cowardice—with fear of the consequences of meeting moral with physical force—that he finally made an effort to get control of the handle of the door, and so with the assistance of the bailiff to force his way in.
+
+On an earlier occasion when Harrison barricaded herself inside her home, supporters brought her food and supplies by means of a basket she lowered from a window by a rope.
+
+There is at least one report of similar barricades in the American women’s suffrage movement. Lillie Devereaux Blake addressed a New York Women’s Suffrage Society meeting in 1873, and…
+
+> …narrated several anecdotes of vigorous ladies, who, in the security of their own castles, had defied all the approaches of the tax collector. One lady, she said, was in the habit of barricading herself in her house whenever the tax collector made his appearance, getting into a top room of the house, and from that coign of vantage, delaying the minion of the Government with potations from her parlors. [Laughter.] In this case, Mrs. Blake said it was suspected that the collector had paid the taxes himself, rather than submit to the convincing streams of the lady’s eloquence. [Laughter.]
+
+## War Tax Resisters
+
+When the U.S. government seized their home in 1989, war tax resisters Randy Kehler and Betsy Corner refused to leave—in defiance of a federal court order.
+When Kehler was arrested and imprisoned for contempt of court, a dozen affinity groups maintained a round-the-clock occupation of the home in shifts all the way through 1992.
+
+Then there’s this amusing tale:
+
+> Early one morning in 1968 Karl North (Rochester, N.Y.) was alerted by neighbors that the IRS had seized his car and was about to have it towed for $11.29 in unpaid telephone tax. Without time to grab his car key, Karl rushed out of the house and lay down under the car. This disconcerted the IRS enough that when they stopped everything to call the police, he ran back into the house, got the key, rushed back out, and drove the car off.
+
+## Blue Shirts
+
+The Irish right-wing “Blue Shirt Party” held a rally in County Cork in August, 1934 to protest government property seizures against tax resisters.
+“While the conference was sitting, County Cork farmers felled trees in the roads, cut telephone wires and made other efforts to prevent further seizure of cattle for unpaid annuities.”
+
+## Poll Tax Resistance
+
+Resisters used barricades successfully in the battle against Thatcher’s poll tax:
+
+> Over 300 people turned up outside [Jeannette McGuin’s] house. Banners were hung out of the window saying “God Help the Sheriffs.” The sheriffs didn’t show up and Jeannette McGuin never heard another word from them.… [I]n Edinburgh over 300 people filled a central high street to prevent a poinding… 200 activists guarded flats in the Grass Market area… and 150 people guarded 11 flats in Stockbridge and Comely Bank.
+
+Jackie Moyers of the Mayfield/Newtongrange Anti-Poll Tax Union reported:
+
+> The very first poinding which was supposed to have been taking place was in a small village called Pathead…
+>
+> The back of eight o’clock everybody started coming up, they actually started running a relay service, a shuttle service with cars going to collect people, and I’d say by about half-past nine to ten o’clock we had 110 people standing in the garden. It was a beautiful day, it was like everybody was sunbathing, having a day out; we stood about there, everybody singing songs, we had the records on, a couple of them had a wee drink, things like that, waiting on the sheriff officers coming…
+>
+> The sheriff officers turned up, got on the phone and, lo and behold, a police car turned up… So the police came up and asked us if the sheriff officers could get in and I said, “Well, I’m telling you, under no circumstances whatsoever are we allowing any sheriff officers into anybody’s house to carry out a poinding.”
+>
+> …So the sheriff officers turned around to the police, and says “I want him arrested, because he’s organising this,” and the police says, “well, we can’t do a thing.” And everyone in the garden, I says to them, well, “They want me arrested.” They says, “Well, if you’re getting arrested then all of us are getting arrested.” And by this time, the local coalman had come up the road in his lorry, stopped his lorry and blocked the street. The two guys at the back jumped off, and the coalman who was driving the lorry, they jumped over the fence and joined us. The local council workers, who were doing the windows at the time, downed their tools and got in the garden and supported us. It’s worse than jungle drums, because the local baker heard it, he came around with his baker’s van and started dishing out cakes to us. The sheriff officers were getting quite panicky by this time. The police got in their car and left the sheriff officers. I told them again. I said, “You’d better get going. It’s a waste of your time. We know you’re not going to get in, so there’s nothing else you can do.”… They tried to get in for five or ten minutes and by this time the crowd were getting quite hostile, and I says, “I think you’d better go to your car while you’ve still got four wheels and you’re still able to walk.”
+
+At Bishops Lydeard, people “divided up into small groups and blockaded every road into the village”:
+
+> Barricades were constructed and every vehicle which tried to enter was stopped and asked its business.… In the end, the bailiffs didn’t come near the place.
+
+Poll tax resisters also sometimes occupied or blockaded the offices of sheriffs and bailiffs.
+
+## Annuity Tax Resistance
+
+During the Edinburgh Annuity Tax resistance campaign, resisters used blockades to prevent property seizure and to obstruct the movement of constables when they were trying to arrest resisters.
+Here are some excerpts from testimony given during a government investigation of the Annuity Tax disturbances:
+
+> …I saw sledge hammers and other instruments there to open the premises and get at the goods, but after labouring for half an hour or more they could not effect an entrance.
+>
+> Q: Was that because Mr. Dun used some of the metal in which he was a dealer to barricade his premises?
+>
+> A: Yes; tons of metal were put up against the back door, and it was impossible for them to get in.230
+>
+> Mr. Dunn had barricaded the door of the room where the poinded effects were, so that an entrance could not be had… I found that the room where the poinded goods were was filled up to above the centre of the room with boxes filled with plates of iron of immense weight. We were told that the poinded goods were lying beneath those, and that we might get at them as we could. I sent for labourers, and had the whole of those boxes removed into the front shop until I got access, after great trouble, to the sheets of brass, which were the poinded articles. These were then declared by the sheriff officers to be of a different description, and inferior to what they had previously poinded; they refused to take them; and the only articles they recognised were some coils of copper wire; those they took to the police office, and those were all that were obtained on that occasion.
+
+## Bardoli Tax Strike
+
+During the Bardoli tax strike, farmers famously barricaded their homes with their cattle inside to protect them from seizure.
+
+> When the attachment operations began, minute instructions were issued to meet every situation. In the beginning only those who had received notices were to greet the attachment parties with closed doors. Then whole villages were turned into black holes, and people who could not put up with the terrible strain involved were humourously asked to undertake a pilgrimage. When it was found that in spite of the greatest precautions, the Pathans managed to carry away carts, break into enclosures and unhinge closed doors, the Sardar [resistance commander] said: “Pull your carts to pieces. Keep the body in one place, wheels in another, and shafts in a third place; make your hedges extra strong with thorns and bushes; and fortify the doors in such a way that they might not be able to open them except by breaking them open with axes. Exhaust them thoroughly.”…
+
+> In order to save their beloved cattle 80,000 men, women, children with these cattle have locked themselves up in small and insanitary houses for over three months. As I passed through villages, silent, empty and deserted with sentinels posted at different ends, I saw women peeping through the barred windows to see whether it was the arrival of the <i>japti</i> [attachment] officer and, on being reassured, the doors being opened, I was taken inside and I saw the darkness, the stench, the filth; and the men, women and children who had herded for months in the same room with their beloved cattle—miserable, lacerated, grown whitish by disease—and as I heard their determination to remain in that condition for months rather than abandon their cattle to the tender mercies of the <i>japti</i> officer I could not help thinking that the imagination which conceived the dire <i>japti</i> methods, the severity which had enforced them, and the policy which had sanctioned them were difficult to be found outside the pages of a history of medieval times.
+
+<hr />
+
+<details>
+<summary>Notes and Citations</summary>
+
+* Nym Mayhall, Laura E. <i>The Militant Suffrage Movement: Citizenship and Resistance in Britain, 1860–1930</i> (2003) pp. 34–35
+* Montefiore, Dora <i>From a Victorian to a Modern</i> (1925)
+* “Mrs. Harvey’s Unbroken Barricade” <i>The Vote</i> 15 June 1912, p. 134
+* “Battering Ram Used” <i>Adelaide Register</i> 29 December 1913, p. 9
+* “Tax Resistance” <i>The Vote</i> 13 July 1917, p. 282
+* “The New-York Woman’s Suffrage Society” <i>The New York Times</i> 17 December 1873
+* Hedemann, Ed “War Tax Resisters in History” <i>More Than a Paycheck</i> October/November 2010, p. 7
+* “Irish Blue Shirts Plan Tax Strike” Associated Press dispatch found in the <i>Pittsburgh Post-Gazette</i>, 20 August 1934, p. 2
+* “Blue Shirts On Guard” Havas dispatch found in <i>The Montreal Gazette</i>, 15 August 1935, p. 3
+* Burns, Danny <i>Poll Tax Rebellion</i> AK Press (1992), p. 153–57
+* <i>Report from the Select Committee on the Edinburgh Annuity Tax Abolition Act</i> (1866), pp. 88, 101
+* Desai, Mahadev <i>The Story of Bardoli</i> (1929) pp. 171–72, 218
+
+</details>
