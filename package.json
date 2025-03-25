@@ -12,6 +12,7 @@
   "dependencies": {
     "@astrojs/mdx": "^4.2.1",
     "@astrojs/starlight": "^0.32.2",
+    "@fontsource/aleo": "^5.2.5",
     "astro": "^5.1.5",
     "kleur": "^4.1.5",
     "micromark": "^4.0.2",

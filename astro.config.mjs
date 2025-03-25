@@ -14,11 +14,14 @@ export default defineConfig({
         remarkPlugins: [remarkDefinitionList],
         remarkRehype: { handlers: defListHastHandlers },
       },
+   base: '/TPL/TaxStrikeTactics',
 	integrations: [
 		starlight({
 			title: 'Tax Strike Tactics',
          customCss: [
-            './src/styles/custom.css'
+            './src/styles/custom.css',
+            '@fontsource/aleo/400.css',
+            '@fontsource/aleo/600.css',
          ],
 			social: {
 				github: 'https://github.com/DavidMGross/TaxStrikeTactics',
