@@ -14,8 +14,8 @@ export default defineConfig({
         remarkPlugins: [remarkDefinitionList],
         remarkRehype: { handlers: defListHastHandlers },
       },
-   base: '/TPL/TaxStrikeTactics',
-	integrations: [
+    base: '/TPL/TaxStrikeTactics',
+	 integrations: [
 		starlight({
 			title: 'Tax Strike Tactics',
          customCss: [
