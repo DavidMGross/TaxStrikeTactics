@@ -22,6 +22,10 @@ export default defineConfig({
             './src/styles/custom.css',
             '@fontsource/aleo/400.css',
             '@fontsource/aleo/600.css',
+            '@fontsource/edu-sa-beginner/400.css',
+            '@fontsource/edu-sa-beginner/500.css',
+            '@fontsource/edu-sa-beginner/600.css',
+            '@fontsource/edu-sa-beginner/700.css',
          ],
 			social: {
 				github: 'https://github.com/DavidMGross/TaxStrikeTactics',
@@ -75,6 +79,11 @@ export default defineConfig({
 				{
 					label: 'The Revolution Is Within You',
 					autogenerate: { directory: 'therevolutioniswithinyou' },
+               collapsed: true,
+				},
+				{
+					label: 'Give Your Campaign a Tune-Up',
+					autogenerate: { directory: 'giveyourcampaignatuneup' },
                collapsed: true,
 				},
 			],

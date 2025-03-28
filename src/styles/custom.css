@@ -75,3 +75,7 @@ main summary::-webkit-details-marker {
 main details > *:not(summary) {
   padding: 1rem;
 }
+
+div.workshop {
+  font-family: 'Edu SA Beginner Variable', cursive;
+}
