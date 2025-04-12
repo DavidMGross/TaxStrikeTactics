@@ -18,6 +18,17 @@ export default defineConfig({
 	 integrations: [
 		starlight({
 			title: 'Tax Strike Tactics',
+         description: 'Your tax strike can make history if it learns from history. Find out how tax strikes succeed.',
+         head: [
+           {
+             tag: 'meta',
+             attrs: {
+               content: 'David M. Gross',
+               lang: 'en',
+               name: 'author',
+             },
+           },
+         ],
          customCss: [
             './src/styles/custom.css',
             '@fontsource/aleo/400.css',
@@ -27,9 +38,9 @@ export default defineConfig({
             '@fontsource/edu-sa-beginner/600.css',
             '@fontsource/edu-sa-beginner/700.css',
          ],
-			social: {
-				github: 'https://github.com/DavidMGross/TaxStrikeTactics',
-			},
+			social: [
+				{ icon: 'github', label: 'GitHub', href: 'https://github.com/DavidMGross/TaxStrikeTactics' },
+			],
 			sidebar: [
 				{
 					label: 'Introduction',
