@@ -73,7 +73,8 @@ main summary::-webkit-details-marker {
 
 /* Style the content */
 main details > *:not(summary) {
-  padding: 1rem;
+  padding-bottom: 1rem;
+  padding-right: 1rem;
 }
 
 div.workshop {
