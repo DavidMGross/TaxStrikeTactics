@@ -4,7 +4,9 @@ description: Another way to discourage the tax bureaucracy.
 sidebar:
   order: 19
 ---
+import { Aside } from '@astrojs/starlight/components';
 import { Badge } from '@astrojs/starlight/components';
+import WikipediaBadge from '../../../components/WikipediaBadge.astro';
 
 In 2005 I started collecting media mentions of Internal Revenue Service (IRS) buildings that were evacuated because of “an envelope containing an unknown powder” or “a suspicious package” or something of the sort.
 It seems to be a popular hobby to harass the IRS in this way.
@@ -50,6 +52,11 @@ And then there’s this, from 2003:
 > Angry New Zealand farmers are reportedly sending parcels of cattle manure to cabinet ministers in a campaign against a so-called “flatulence tax” on their animals.
 > New Zealand Post said it was treating the campaign “as seriously as cyanide”
 
+<Aside type="tip" title="Wikipedia">
+  <WikipediaBadge title="Anthrax hoaxes" />
+  <WikipediaBadge title="Domestic terrorism" />
+  <WikipediaBadge title="Boston Tea Party" />
+</Aside>
 ---
 
 <details>
