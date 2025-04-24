@@ -4,7 +4,7 @@ description: Keep transactions off of the government’s radar and make them mor
 sidebar:
   order: 7
 ---
-import { Aside } from '@astrojs/starlight/components';
+import Aside from '../../../components/ExtendedAside.astro';
 import { Badge } from '@astrojs/starlight/components';
 import WikipediaBadge from '../../../components/WikipediaBadge.astro';
 
@@ -43,7 +43,7 @@ This too can be of benefit to some varieties of tax resistance campaigns.
 * [Freecycle](https://www.freecycle.org/)
 </Aside>
 
-<Aside type="tip" title="Wikipedia">
+<Aside type="wikipedia" title="Wikipedia">
   <WikipediaBadge title="Karl Hess" />
   <WikipediaBadge title="Barter" />
   <WikipediaBadge title="Collaborative consumption" />

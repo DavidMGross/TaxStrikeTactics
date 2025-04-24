@@ -28,7 +28,7 @@
     href={Astro.props.url || `https://en.wikipedia.org/wiki/${encodeURIComponent(Astro.props.title)}`}
     class={`wikipedia-badge ${Astro.props.variant || 'default'}`}
     target="_blank"
-    rel="noopener"
+    rel="noopener noreferrer"
     title={`View "${Astro.props.title}" on Wikipedia`}
   >
     <span class="wikipedia-badge-icon">
@@ -42,6 +42,7 @@
 </wikipedia-badge>
 
 <style>
+  /* Light mode styles */
   .wikipedia-badge {
     display: inline-flex;
     align-items: center;
@@ -53,7 +54,7 @@
     color: #202122;
     background-color: #f8f9fa;
     border: 1px solid #a2a9b1;
-    transition: background-color 0.2s, border-color 0.2s;
+    transition: background-color 0.2s, border-color 0.2s, color 0.2s;
     gap: 0.4rem;
     white-space: nowrap;
     margin: 0.3rem 0.1rem;
@@ -75,12 +76,6 @@
     fill: #202122;
   }
 
-  :global(.dark) .w-icon {
-    background-color: #27292c;
-    color: #d5d7db;
-    border-color: #4e5156;
-  }
-
   .wikipedia-badge.compact {
     padding: 0.25rem 0.4rem;
   }
@@ -89,19 +84,38 @@
     display: none;
   }
 
-  /* Dark mode support for Starlight */
+  /* Dark mode styles */
+  :global([data-theme="dark"]) .wikipedia-badge,
   :global(.dark) .wikipedia-badge {
     color: #d5d7db;
     background-color: #27292c;
     border-color: #4e5156;
   }
 
+  :global([data-theme="dark"]) .wikipedia-badge:hover,
   :global(.dark) .wikipedia-badge:hover {
     background-color: #323438;
     border-color: #72777d;
   }
 
+  :global([data-theme="dark"]) .wikipedia-badge-icon svg,
   :global(.dark) .wikipedia-badge-icon svg {
+    fill: #d5d7db;
+  }
+  
+  /* For Starlight compatibility, support both dark selectors */
+  :global(html.dark) .wikipedia-badge {
+    color: #d5d7db;
+    background-color: #27292c;
+    border-color: #4e5156;
+  }
+
+  :global(html.dark) .wikipedia-badge:hover {
+    background-color: #323438;
+    border-color: #72777d;
+  }
+
+  :global(html.dark) .wikipedia-badge-icon svg {
     fill: #d5d7db;
   }
 </style>

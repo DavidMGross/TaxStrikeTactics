@@ -4,7 +4,7 @@ description: Some mischievous tax resisters have discovered that red tape is a v
 sidebar:
   order: 25
 ---
-import { Aside } from '@astrojs/starlight/components';
+import Aside from '../../../components/ExtendedAside.astro';
 import { Badge } from '@astrojs/starlight/components';
 import WikipediaBadge from '../../../components/WikipediaBadge.astro';
 
@@ -116,7 +116,7 @@ A columnist for the <i>Dallas News</i> created an #EverybodyFileAProtest campaig
 He claims 40,000 more people than usual filed protests that year.
 “The idea was to clog up the system so that appraisal districts would settle informally, either in person or online, with homeowners to avoid so many appeal hearings.”
 
-<Aside type="tip" title="Wikipedia">
+<Aside type="wikipedia" title="Wikipedia">
   <WikipediaBadge title="Karl Meyer (activist)" />
   <WikipediaBadge title="Cabbage Patch Kids" />
   <WikipediaBadge title="Sovereign citizen movement" />

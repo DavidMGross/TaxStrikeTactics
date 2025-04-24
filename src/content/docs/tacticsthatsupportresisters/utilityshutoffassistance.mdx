@@ -4,7 +4,7 @@ description: Resistance campaigns have developed strategies for assisting resist
 sidebar:
   order: 16
 ---
-import { Aside } from '@astrojs/starlight/components';
+import Aside from '../../../components/ExtendedAside.astro';
 import { Badge } from '@astrojs/starlight/components';
 import WikipediaBadge from '../../../components/WikipediaBadge.astro';
 import { YouTube } from 'astro-embed';
@@ -47,7 +47,7 @@ This support made it easier for people to continue to resist even when they ran 
 [HangUpOnWar](https://nwtrcc.org/programs-events/hang-up-on-war/)
 </Aside>
 
-<Aside type="tip" title="Wikipedia">
+<Aside type="wikipedia" title="Wikipedia">
   <WikipediaBadge title="I Don’t Pay Movement" url="https://en.wikipedia.org/wiki/I_Don%27t_Pay_Movement" />
   <WikipediaBadge title="Federal telephone excise tax" />
 </Aside>

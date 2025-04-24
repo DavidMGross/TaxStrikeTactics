@@ -4,7 +4,7 @@ description: Highlight resonances between your campaign and popular myths, estee
 sidebar:
   order: 8
 ---
-import { Aside } from '@astrojs/starlight/components';
+import Aside from '../../../components/ExtendedAside.astro';
 import { Badge } from '@astrojs/starlight/components';
 import WikipediaBadge from '../../../components/WikipediaBadge.astro';
 
@@ -118,7 +118,7 @@ These signs hearkened back to similar signs from the tax resistance accompanying
 
 Now, after the success of the anti-poll tax campaign, *it* has become the example that campaigns emulate and try to live up to.
 
-<Aside type="tip" title="Wikipedia">
+<Aside type="wikipedia" title="Wikipedia">
   <WikipediaBadge title="Tea Party movement" />
   <WikipediaBadge title="Boston Tea Party" />
   <WikipediaBadge title="Tax protester arguments" />

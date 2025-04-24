@@ -4,7 +4,7 @@ description: Deposit the money into a special account and say you’re willing t
 sidebar:
   order: 3
 ---
-import { Aside } from '@astrojs/starlight/components';
+import Aside from '../../../components/ExtendedAside.astro';
 import { Badge } from '@astrojs/starlight/components';
 import WikipediaBadge from '../../../components/WikipediaBadge.astro';
 
@@ -39,7 +39,7 @@ The independence movement in Catalonia encouraged Catalans to pay their federal 
 That government then relinquished the money in the escrow account to the federal government, which meant that those people who paid into the account were legally paying their taxes.
 But by regularly paying into the escrow account rather than directly, those taxpayers empowered the regional government to withhold those funds from the central government entirely at some future date when they feel bold enough to do so.
 
-<Aside type="tip" title="Wikipedia">
+<Aside type="wikipedia" title="Wikipedia">
   <WikipediaBadge title="Escrow" />
   <WikipediaBadge title="Quakers" />
   <WikipediaBadge title="Philadelphia Yearly Meeting" />

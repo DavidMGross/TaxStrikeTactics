@@ -4,7 +4,7 @@ description: Propagandize them when and where they make their tax payments.
 sidebar:
   order: 3
 ---
-import { Aside } from '@astrojs/starlight/components';
+import Aside from '../../../components/ExtendedAside.astro';
 import { Badge } from '@astrojs/starlight/components';
 import WikipediaBadge from '../../../components/WikipediaBadge.astro';
 import { YouTube } from 'astro-embed';
@@ -62,7 +62,7 @@ War tax resistance groups have also frequently used tax day as an opportunity to
 * [Redirect Resisted Taxes to Charity](../../tacticsofeducationandpublicrelations/redirecttaxestocharity/)
 </Aside>
 
-<Aside type="tip" title="Wikipedia">
+<Aside type="wikipedia" title="Wikipedia">
   <WikipediaBadge title="Tax Day" />
   <WikipediaBadge title="Frida Berrigan" />
   <WikipediaBadge title="Burma Shave" url="https://en.wikipedia.org/wiki/Burma-Shave#Roadside_billboards" />

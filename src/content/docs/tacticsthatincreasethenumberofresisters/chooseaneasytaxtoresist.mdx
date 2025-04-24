@@ -4,7 +4,7 @@ description: This can encourage more people to begin resisting.
 sidebar:
   order: 5
 ---
-import { Aside } from '@astrojs/starlight/components';
+import Aside from '../../../components/ExtendedAside.astro';
 import { Badge } from '@astrojs/starlight/components';
 import WikipediaBadge from '../../../components/WikipediaBadge.astro';
 
@@ -51,7 +51,7 @@ Vallabhbhai Patel, commander of the Bardoli tax strike of 1928, told his followe
 > But it is afraid, and rightly too, lest if we win the battle, the whole of India may do tomorrow what Bardoli is doing today.
 > Similarly you have to realise on your part that it is not merely yourselves that you represent but you hold in your hand the honour of the whole of India.
 
-<Aside type="tip" title="Wikipedia">
+<Aside type="wikipedia" title="Wikipedia">
   <WikipediaBadge title="Salt March" />
   <WikipediaBadge title="Mahatma Gandhi" />
   <WikipediaBadge title="Federal telephone excise tax" />

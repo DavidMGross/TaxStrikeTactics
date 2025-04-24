@@ -4,7 +4,7 @@ description: A campaign can recognize and honor those resisters who have been im
 sidebar:
   order: 23
 ---
-import { Aside } from '@astrojs/starlight/components';
+import Aside from '../../../components/ExtendedAside.astro';
 import { Badge } from '@astrojs/starlight/components';
 import WikipediaBadge from '../../../components/WikipediaBadge.astro';
 
@@ -31,7 +31,7 @@ Those who succeeded were honored:
 > The Beidenfleth Heifer Case developed into a regular popular festival.
 > Maidenly hands strung garlands about the necks of those enviable peasants who had achieved the honour of receiving a writ.
 
-<Aside type="tip" title="Wikipedia">
+<Aside type="wikipedia" title="Wikipedia">
   <WikipediaBadge title="Women’s Tax Resistance League" url="https://en.wikipedia.org/wiki/Women%27s_Tax_Resistance_League" />
 </Aside>
 ---

@@ -4,7 +4,7 @@ description: Tax collectors rely on tools. Disabling these tools can strike a bl
 sidebar:
   order: 22
 ---
-import { Aside } from '@astrojs/starlight/components';
+import Aside from '../../../components/ExtendedAside.astro';
 import { Badge } from '@astrojs/starlight/components';
 import WikipediaBadge from '../../../components/WikipediaBadge.astro';
 import { YouTube } from 'astro-embed';
@@ -128,7 +128,7 @@ In Creuse, as the clerk began to read the latest tax roll, “the women spring u
 
 When the Internal Revenue Service seized tax resister Mary Cain’s newspaper, and put a chain and padlock on the front door of its offices, “Mrs. Cain sawed off the lock and chain and mailed them to the Internal Revenue Department with a defiant note.”
 
-<Aside type="tip" title="Wikipedia">
+<Aside type="wikipedia" title="Wikipedia">
   <WikipediaBadge title="Traffic enforcement camera" />
   <WikipediaBadge title="Yellow vests protests" />
   <WikipediaBadge title="Rémi Gaillard" />

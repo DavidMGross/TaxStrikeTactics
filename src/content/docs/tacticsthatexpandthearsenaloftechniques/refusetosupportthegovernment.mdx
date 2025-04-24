@@ -4,7 +4,7 @@ description: A government’s subjects provide crucial support to the regime in 
 sidebar:
   order: 21
 ---
-import { Aside } from '@astrojs/starlight/components';
+import Aside from '../../../components/ExtendedAside.astro';
 import { Badge } from '@astrojs/starlight/components';
 import WikipediaBadge from '../../../components/WikipediaBadge.astro';
 
@@ -85,7 +85,7 @@ Anti-corruption activists in India responded to this by printing up fake “zero
 > This blatantly false, oversized purple bill, complete with Gandhi’s portrait, can be handed to any officials who ask for a bribe in order to shame them into changing their behavior.
 > The note communicates that not only will a person not pay a bribe, but also that they are not alone—they are part of a movement of people who support them in ending corruption.
 
-<Aside type="tip" title="Wikipedia">
+<Aside type="wikipedia" title="Wikipedia">
   <WikipediaBadge title="Quakers" />
   <WikipediaBadge title="Government bond" />
   <WikipediaBadge title="Window tax" />

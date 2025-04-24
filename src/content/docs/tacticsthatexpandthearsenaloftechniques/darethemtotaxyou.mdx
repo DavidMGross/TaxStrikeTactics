@@ -4,7 +4,7 @@ description: An unusual method of tax resistance is to deliberately make yoursel
 sidebar:
   order: 18
 ---
-import { Aside } from '@astrojs/starlight/components';
+import Aside from '../../../components/ExtendedAside.astro';
 import { Badge } from '@astrojs/starlight/components';
 import WikipediaBadge from '../../../components/WikipediaBadge.astro';
 
@@ -70,7 +70,7 @@ Dorothy Day added:
 > We refuse to become a “corporation.”…
 > [W]e do not intend to “incorporate” the Catholic Worker movement.
 
-<Aside type="tip" title="Wikipedia">
+<Aside type="wikipedia" title="Wikipedia">
   <WikipediaBadge title="Pulpit Freedom Sunday" />
   <WikipediaBadge title="Johnson Amendment" />
   <WikipediaBadge title="IRS targeting controversy" />

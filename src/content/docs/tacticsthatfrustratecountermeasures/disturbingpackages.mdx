@@ -4,7 +4,7 @@ description: Another way to discourage the tax bureaucracy.
 sidebar:
   order: 19
 ---
-import { Aside } from '@astrojs/starlight/components';
+import Aside from '../../../components/ExtendedAside.astro';
 import { Badge } from '@astrojs/starlight/components';
 import WikipediaBadge from '../../../components/WikipediaBadge.astro';
 
@@ -52,7 +52,7 @@ And then there’s this, from 2003:
 > Angry New Zealand farmers are reportedly sending parcels of cattle manure to cabinet ministers in a campaign against a so-called “flatulence tax” on their animals.
 > New Zealand Post said it was treating the campaign “as seriously as cyanide”
 
-<Aside type="tip" title="Wikipedia">
+<Aside type="wikipedia" title="Wikipedia">
   <WikipediaBadge title="Anthrax hoaxes" />
   <WikipediaBadge title="Domestic terrorism" />
   <WikipediaBadge title="Boston Tea Party" />

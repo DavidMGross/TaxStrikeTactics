@@ -4,7 +4,7 @@ description: Some tax resistance campaigns have made it difficult or impossible 
 sidebar:
   order: 5
 ---
-import { Aside } from '@astrojs/starlight/components';
+import Aside from '../../../components/ExtendedAside.astro';
 import { Badge } from '@astrojs/starlight/components';
 import WikipediaBadge from '../../../components/WikipediaBadge.astro';
 
@@ -62,7 +62,7 @@ One of them shouted “seal the court” and another sat in the judge’s seat a
 Some of the protesters then staged a sit-down blockade of the police vehicles that were summoned to the courthouse.
 The court hearing was postponed.
 
-<Aside type="tip" title="Wikipedia">
+<Aside type="wikipedia" title="Wikipedia">
   <WikipediaBadge title="Young Turks" />
   <WikipediaBadge title="Whiskey Rebellion" />
   <WikipediaBadge title="Fries’s Rebellion" url="https://en.wikipedia.org/wiki/Fries%27s_Rebellion" />

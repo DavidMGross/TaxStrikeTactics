@@ -29,6 +29,9 @@ export default defineConfig({
              },
            },
          ],
+         components: {
+           Aside: './src/components/ExtendedAside.astro',
+         },
          customCss: [
             './src/styles/custom.css',
             '@fontsource/aleo/400.css',
@@ -39,7 +42,7 @@ export default defineConfig({
             '@fontsource/edu-sa-beginner/700.css',
          ],
 			social: [
-				{ icon: 'github', label: 'GitHub', href: 'https://github.com/DavidMGross/TaxStrikeTactics' },
+			//	{ icon: 'github', label: 'GitHub', href: 'https://github.com/DavidMGross/TaxStrikeTactics' },
 			],
 			sidebar: [
 				{

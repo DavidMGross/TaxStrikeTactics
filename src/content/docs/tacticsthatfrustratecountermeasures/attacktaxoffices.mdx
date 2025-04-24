@@ -4,7 +4,7 @@ description: Some tax resisters have also violently attacked offices of the tax 
 sidebar:
   order: 18
 ---
-import { Aside } from '@astrojs/starlight/components';
+import Aside from '../../../components/ExtendedAside.astro';
 import { Badge } from '@astrojs/starlight/components';
 import WikipediaBadge from '../../../components/WikipediaBadge.astro';
 
@@ -88,7 +88,7 @@ The following month, three bombs went off outside Equitalia’s offices in Naple
 In May 2012 another branch was struck with molotov cocktails.
 “The phrases ‘Thieves’ and ‘Death to Equitalia’ were sprayed onto outside walls.”
 
-<Aside type="tip" title="Wikipedia">
+<Aside type="wikipedia" title="Wikipedia">
   <WikipediaBadge title="2010 Austin suicide attack" />
   <WikipediaBadge title="National Treasury Employees Union" />
   <WikipediaBadge title="Jewish insurgency in Mandatory Palestine" />

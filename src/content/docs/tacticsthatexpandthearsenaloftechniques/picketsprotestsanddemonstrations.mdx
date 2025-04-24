@@ -4,7 +4,7 @@ description: Pickets and other public demonstrations commonly accompany tax resi
 sidebar:
   order: 16
 ---
-import { Aside } from '@astrojs/starlight/components';
+import Aside from '../../../components/ExtendedAside.astro';
 import { Badge } from '@astrojs/starlight/components';
 import WikipediaBadge from '../../../components/WikipediaBadge.astro';
 
@@ -122,7 +122,7 @@ Hundreds of thousands of people turned out to protests in England, and some of t
 On such occasions, the riots became the message of the demonstrations, whatever the intentions of the organizers were.
 This had mixed consequences for the movement.
 
-<Aside type="tip" title="Wikipedia">
+<Aside type="wikipedia" title="Wikipedia">
   <WikipediaBadge title="Tithe War" />
   <WikipediaBadge title="Hartal" />
   <WikipediaBadge title="Women’s Tax Resistance League" url="https://en.wikipedia.org/wiki/Women%27s_Tax_Resistance_League" />

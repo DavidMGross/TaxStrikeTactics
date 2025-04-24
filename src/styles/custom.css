@@ -80,3 +80,16 @@ main details > *:not(summary) {
 div.workshop {
   font-family: 'Edu SA Beginner Variable', cursive;
 }
+
+/* Custom styling for the wikipedia variant */
+.starlight-aside--wikipedia {
+  --sl-color-asides-text: var(--sl-color-white);
+  --sl-color-asides-bg: #2a4b8d; /* Wikipedia blue */
+  border-color: #5981ce; /* Lighter blue for border */
+}
+
+/* Dark mode styles */
+[data-theme="dark"] .starlight-aside--wikipedia {
+  --sl-color-asides-bg: #162a50; /* Darker Wikipedia blue for dark mode */
+  border-color: #3a5fa3; /* Adjusted border color for dark mode */
+}

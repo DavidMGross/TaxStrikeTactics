@@ -4,7 +4,7 @@ description: Some tax resistance campaigns teach pragmatic tax strategies that w
 sidebar:
   order: 13
 ---
-import { Aside } from '@astrojs/starlight/components';
+import Aside from '../../../components/ExtendedAside.astro';
 import { Badge } from '@astrojs/starlight/components';
 import WikipediaBadge from '../../../components/WikipediaBadge.astro';
 
@@ -86,7 +86,7 @@ Why?
 Interest rates had fallen below 0%, but the government was pledged to pay 0.56% interest on tax overpayments.
 So those who overpaid the government made the government poorer and themselves richer.
 
-<Aside type="tip" title="Wikipedia">
+<Aside type="wikipedia" title="Wikipedia">
   <WikipediaBadge title="Tax avoidance" />
   <WikipediaBadge title="Deloitte" />
   <WikipediaBadge title="IRS Volunteer Income Tax Assistance Program" />

@@ -4,7 +4,7 @@ description: A one-person revolutionary is individually more effective and harde
 sidebar:
   order: 4
 ---
-import { Aside } from '@astrojs/starlight/components';
+import Aside from '../../../components/ExtendedAside.astro';
 import WikipediaBadge from '../../../components/WikipediaBadge.astro';
 import { YouTube } from 'astro-embed';
 
@@ -38,7 +38,7 @@ Some people think it demonstrates that unless we stay united we are weak, but th
 
 <YouTube id="gugnXTN6-D4" title="Thoreau and Civil Disobedience" />
 
-<Aside type="tip" title="Wikipedia">
+<Aside type="wikipedia" title="Wikipedia">
   <WikipediaBadge title="John Brown (abolitionist)" />
   <WikipediaBadge title="Ammon Hennacy" />
   <WikipediaBadge title="Henry David Thoreau" />

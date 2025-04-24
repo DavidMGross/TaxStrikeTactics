@@ -4,7 +4,7 @@ description: Some tax resistance campaigns have had their own anthems or fight s
 sidebar:
   order: 10
 ---
-import { Aside } from '@astrojs/starlight/components';
+import Aside from '../../../components/ExtendedAside.astro';
 import { Badge } from '@astrojs/starlight/components';
 import WikipediaBadge from '../../../components/WikipediaBadge.astro';
 import { YouTube } from 'astro-embed';
@@ -229,7 +229,7 @@ So don’t sit around, let’s fight this tax, and we can beat it.”
 
 <YouTube id="_N5DFZfg4zY" title="“Now Is the Time for Rage” by the Resistance Choir" />
 
-<Aside type="tip" title="Wikipedia">
+<Aside type="wikipedia" title="Wikipedia">
   <WikipediaBadge title="Bardoli Satyagraha" />
   <WikipediaBadge title="Mahadev Desai" />
   <WikipediaBadge title="Vallabhbhai Patel" />

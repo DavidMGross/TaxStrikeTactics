@@ -4,7 +4,7 @@ description: Some tax resistance campaigns are nonviolent, some are not.
 sidebar:
   order: 2
 ---
-import { Aside } from '@astrojs/starlight/components';
+import Aside from '../../../components/ExtendedAside.astro';
 import { YouTube } from 'astro-embed';
 import WikipediaBadge from '../../../components/WikipediaBadge.astro';
 
@@ -159,7 +159,7 @@ But Gandhi was confident enough in his methods that he led campaigns of resister
 He did not feel the need to wait until his ideal was fully realized before acting, but hoped instead to realize his ideal in part through action and experimentation.
 It would be a shame if the lesson people took from Gandhi was that they should become saints first, and do good afterwards.
 
-<Aside type="tip" title="Wikipedia">
+<Aside type="wikipedia" title="Wikipedia">
   <WikipediaBadge title="Nonviolent resistance" />
   <WikipediaBadge title="People power" />
   <WikipediaBadge title="Rebecca Riots" />

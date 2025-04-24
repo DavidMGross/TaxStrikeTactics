@@ -4,7 +4,7 @@ description: Your campaign can reassure resisters by insuring them against gover
 sidebar:
   order: 2
 ---
-import { Aside } from '@astrojs/starlight/components';
+import Aside from '../../../components/ExtendedAside.astro';
 import { Badge } from '@astrojs/starlight/components';
 import WikipediaBadge from '../../../components/WikipediaBadge.astro';
 
@@ -91,7 +91,7 @@ They were more deliberate and precise when they established their mutual insuran
 Such precision made it clear to subscribers what they were subscribing to and how decisions would be made about the use of the fund.
 This made it less likely that the Association’s work would be distracted by arguments like those that came up in the Anti Dray and Land Tax League.
 
-<Aside type="tip" title="Wikipedia">
+<Aside type="wikipedia" title="Wikipedia">
   <WikipediaBadge title="Benefit society" />
   <WikipediaBadge title="Association of Real Estate Taxpayers" />
 </Aside>

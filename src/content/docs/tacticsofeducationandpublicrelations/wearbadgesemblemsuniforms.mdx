@@ -4,7 +4,7 @@ description: These increase visibility, and demonstrate that resisters feel prid
 sidebar:
   order: 11
 ---
-import { Aside } from '@astrojs/starlight/components';
+import Aside from '../../../components/ExtendedAside.astro';
 import { Badge } from '@astrojs/starlight/components';
 import WikipediaBadge from '../../../components/WikipediaBadge.astro';
 import { YouTube } from 'astro-embed';
@@ -165,7 +165,7 @@ When the Internal Revenue Service (IRS) levied war tax resister Thad Crouch’s 
 ![Protest marchers wearing yellow safety vests](../../../assets/gilets-jaunes.jpg)
 <figcaption>Yellow vests were the uniform of choice in the <i>gilets jaunes</i> tax protests of 2018–20.</figcaption>
 
-<Aside type="tip" title="Wikipedia">
+<Aside type="wikipedia" title="Wikipedia">
   <WikipediaBadge title="Khadi" />
   <WikipediaBadge title="Gandhi cap" />
   <WikipediaBadge title="Swadeshi movement" />

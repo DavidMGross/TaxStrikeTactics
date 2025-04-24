@@ -4,7 +4,7 @@ description: Some tax resisters have formed businesses that help them and their 
 sidebar:
   order: 4
 ---
-import { Aside } from '@astrojs/starlight/components';
+import Aside from '../../../components/ExtendedAside.astro';
 import { Badge } from '@astrojs/starlight/components';
 import WikipediaBadge from '../../../components/WikipediaBadge.astro';
 
@@ -31,7 +31,7 @@ Some members of the group formed a small construction business and helped those 
 They carried this so far that the business’s officers would eventually face criminal tax evasion convictions.
 (The sect paid the fines of its convicted members.)
 
-<Aside type="tip" title="Wikipedia">
+<Aside type="wikipedia" title="Wikipedia">
   <WikipediaBadge title="J. Edward Guinan" />
   <WikipediaBadge title="Internal Revenue Service" />
   <WikipediaBadge title="Arms Control and Disarmament Agency" />

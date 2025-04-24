@@ -4,7 +4,7 @@ description: Some tax resistance campaigns have encouraged resignations, defecti
 sidebar:
   order: 16
 ---
-import { Aside } from '@astrojs/starlight/components';
+import Aside from '../../../components/ExtendedAside.astro';
 import { Badge } from '@astrojs/starlight/components';
 import WikipediaBadge from '../../../components/WikipediaBadge.astro';
 import { YouTube } from 'astro-embed';
@@ -98,7 +98,7 @@ According to a newspaper report, they were aided by sympathizers in the tax enfo
 > In Lincolnshire, the sitting magistrate recently refused to try cases of resistance, and left the bench.
 > Difficulty is experienced everywhere in getting auctioneers to sell the property confiscated.
 
-<Aside type="tip" title="Wikipedia">
+<Aside type="wikipedia" title="Wikipedia">
   <WikipediaBadge title="Henry David Thoreau" />
   <WikipediaBadge title="Bardoli Satyagraha" />
   <WikipediaBadge title="Vallabhbhai Patel" />

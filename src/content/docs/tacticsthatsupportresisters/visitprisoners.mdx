@@ -4,7 +4,7 @@ description: If a campaign can facilitate visits to imprisoned tax resisters, th
 sidebar:
   order: 20
 ---
-import { Aside } from '@astrojs/starlight/components';
+import Aside from '../../../components/ExtendedAside.astro';
 import { Badge } from '@astrojs/starlight/components';
 import WikipediaBadge from '../../../components/WikipediaBadge.astro';
 
@@ -32,7 +32,7 @@ When Zerah C. Whipple was imprisoned for failing to pay a war tax in 1874, it wa
 He wrote: “Our friend John J. Copp, proved himself a true friend indeed.
 Knowing that I would be lonely in the jail, he visited me every day after he learned that I was there, and when the keeper refused him admission, he demanded it as his right to visit his client, and claimed the right to see me alone too, which was granted.”
 
-<Aside type="tip" title="Wikipedia">
+<Aside type="wikipedia" title="Wikipedia">
   <WikipediaBadge title="Poll tax (Great Britain)" />
   <WikipediaBadge title="Thomas Story" />
   <WikipediaBadge title="Zerah C. Whipple" />

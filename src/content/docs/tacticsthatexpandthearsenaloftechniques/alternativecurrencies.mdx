@@ -4,7 +4,7 @@ description: There are several reasons why some tax resisters find alternative c
 sidebar:
   order: 5
 ---
-import { Aside } from '@astrojs/starlight/components';
+import Aside from '../../../components/ExtendedAside.astro';
 import { Badge } from '@astrojs/starlight/components';
 import WikipediaBadge from '../../../components/WikipediaBadge.astro';
 import { YouTube } from 'astro-embed';
@@ -185,7 +185,7 @@ Indeed, all of them are permanently registered on the “blockchain” which is 
 So bitcoin use is only “anonymous” to the extent that those who use it take deliberate measures to keep it so.
 It is not an effortless panacaea for the privacy-conscious tax evader.
 
-<Aside type="tip" title="Wikipedia">
+<Aside type="wikipedia" title="Wikipedia">
   <WikipediaBadge title="Seigniorage" />
   <WikipediaBadge title="Benjamin Tucker" />
   <WikipediaBadge title="Josiah Warren" />

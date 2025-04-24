@@ -4,7 +4,7 @@ description: Hide property from seizure by holding it in other peoples’ names.
 sidebar:
   order: 6
 ---
-import { Aside } from '@astrojs/starlight/components';
+import Aside from '../../../components/ExtendedAside.astro';
 import { Badge } from '@astrojs/starlight/components';
 import WikipediaBadge from '../../../components/WikipediaBadge.astro';
 
@@ -55,7 +55,7 @@ Legal advisors also encouraged more enduring techniques:
 > People were… told how to avoid bailiff action by signing away their possessions to people who lived outside of the area or, preferably, to their children.
 > There are now young children who technically own all of their parents’ possessions.
 
-<Aside type="tip" title="Wikipedia">
+<Aside type="wikipedia" title="Wikipedia">
   <WikipediaBadge title="Ammon Hennacy" />
   <WikipediaBadge title="Tithe War" />
   <WikipediaBadge title="Friends General Conference" />

@@ -4,7 +4,7 @@ description: Make them pariahs and refuse to have anything to do with them.
 sidebar:
   order: 11
 ---
-import { Aside } from '@astrojs/starlight/components';
+import Aside from '../../../components/ExtendedAside.astro';
 import { Badge } from '@astrojs/starlight/components';
 import WikipediaBadge from '../../../components/WikipediaBadge.astro';
 
@@ -88,7 +88,7 @@ During the Fries Rebellion, social pressure made it difficult for the government
 > [I]n every tavern [Jacob Eyerley] stopped at, the law was the subject of general conversation and denunciation, and great pains were taken to find the friends of government, in order to persuade them not to accept the office of assessor.
 > In consequence of this feeling there was great difficulty in finding suitable persons for these appointments.
 
-<Aside type="tip" title="Wikipedia">
+<Aside type="wikipedia" title="Wikipedia">
   <WikipediaBadge title="Judaea (Roman province)" />
   <WikipediaBadge title="Adolf Hausrath" />
   <WikipediaBadge title="John Adams" />

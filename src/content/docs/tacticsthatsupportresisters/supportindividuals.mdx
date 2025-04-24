@@ -4,7 +4,7 @@ description: Simply expressing “I’m with you,” “I’m on your side,” �
 sidebar:
   order: 9
 ---
-import { Aside } from '@astrojs/starlight/components';
+import Aside from '../../../components/ExtendedAside.astro';
 import { Badge } from '@astrojs/starlight/components';
 import WikipediaBadge from '../../../components/WikipediaBadge.astro';
 
@@ -38,7 +38,7 @@ I felt a power from the prayers and the loving concern of people who saw me suff
 
 At its biannual national meetings, American war tax resisters in the National War Tax Resistance Coordinating Committee sign cards of sympathy and encouragement to be sent to war tax resisters who have recently suffered repercussions from their resistance.
 
-<Aside type="tip" title="Wikipedia">
+<Aside type="wikipedia" title="Wikipedia">
   <WikipediaBadge title="Arthur Evans (physician)" />
   <WikipediaBadge title="National War Tax Resistance Coordinating Committee" />
 </Aside>
