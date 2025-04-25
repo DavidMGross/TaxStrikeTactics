@@ -19,6 +19,7 @@ export default defineConfig({
 		starlight({
 			title: 'Tax Strike Tactics',
          description: 'Your tax strike can make history if it learns from history. Find out how tax strikes succeed.',
+         favicon: '/favicon.ico',
          head: [
            {
              tag: 'meta',
