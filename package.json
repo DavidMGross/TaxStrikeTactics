@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@astrojs/mdx": "^4.2.3",
-    "@astrojs/starlight": "^0.33.1",
+    "@astrojs/starlight": "^0.34.3",
     "@fontsource-variable/edu-sa-beginner": "^5.2.5",
     "@fontsource/aleo": "^5.2.5",
     "@fontsource/edu-sa-beginner": "^5.2.5",
