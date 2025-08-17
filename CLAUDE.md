@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+This file provides guidance to Claude Code (claude.ai/code) when it works with code in this repository.
 
 ## Project Overview
 
@@ -44,3 +44,8 @@ This is "Tax Strike Tactics" by David M. Gross - a book published as a documenta
 - Custom component overrides for Aside elements
 - Social links and metadata configuration
 - Collapsed sidebar sections by default
+
+## Development Resources
+
+### MCP Tools
+- **context7 MCP** provides LLM-optimized documentation for frameworks like Astro and Starlight. Use this instead of WebSearch/WebFetch for accurate, up-to-date framework information.
