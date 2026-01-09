@@ -31,7 +31,7 @@ This is "Tax Strike Tactics" by David M. Gross - a book published as a documenta
 
 ### Styling
 - **Custom CSS**: `src/styles/custom.css` contains typography overrides and component styling
-- **Font Loading**: Multiple font variants loaded via @fontsource packages
+- **Font Loading**: Multiple font variants loaded via fontsource packages
 - **Theme Extensions**: Custom aside variants and detail/summary element styling
 
 ### Content Features
