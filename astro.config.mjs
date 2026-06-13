@@ -48,57 +48,57 @@ export default defineConfig({
         sidebar: [
           {
             label: 'Introduction',
-            autogenerate: { directory: 'introduction' },
+            items: [{ autogenerate: { directory: 'introduction' } }],
             collapsed: true,
           },
           {
             label: 'Varieties of Tax Resister',
-            autogenerate: { directory: 'varietiesofresister' },
+            items: [{ autogenerate: { directory: 'varietiesofresister' } }],
             collapsed: true,
           },
           {
             label: 'Resisting on Multiple Fronts',
-            autogenerate: { directory: 'multiplefronts' },
+            items: [{ autogenerate: { directory: 'multiplefronts' } }],
             collapsed: true,
           },
           {
             label: 'Tactics that Support Tax Resisters',
-            autogenerate: { directory: 'tacticsthatsupportresisters' },
+            items: [{ autogenerate: { directory: 'tacticsthatsupportresisters' } }],
             collapsed: true,
           },
           {
             label: 'Tactics that Increase the Number of Resisters',
-            autogenerate: { directory: 'tacticsthatincreasethenumberofresisters' },
+            items: [{ autogenerate: { directory: 'tacticsthatincreasethenumberofresisters' } }],
             collapsed: true,
           },
           {
             label: 'Tactics that Frustrate Government Countermeasures',
-            autogenerate: { directory: 'tacticsthatfrustratecountermeasures' },
+            items: [{ autogenerate: { directory: 'tacticsthatfrustratecountermeasures' } }],
             collapsed: true,
           },
           {
             label: 'Tactics that Expand the Arsenal of Resistance Techniques',
-            autogenerate: { directory: 'tacticsthatexpandthearsenaloftechniques' },
+            items: [{ autogenerate: { directory: 'tacticsthatexpandthearsenaloftechniques' } }],
             collapsed: true,
           },
           {
             label: 'Tactics of Education and Public Relations',
-            autogenerate: { directory: 'tacticsofeducationandpublicrelations' },
+            items: [{ autogenerate: { directory: 'tacticsofeducationandpublicrelations' } }],
             collapsed: true,
           },
           {
             label: 'Tactics that Lay the Groundwork for Victory',
-            autogenerate: { directory: 'tacticsthatlaygroundworkforvictory' },
+            items: [{ autogenerate: { directory: 'tacticsthatlaygroundworkforvictory' } }],
             collapsed: true,
           },
           {
             label: 'The Revolution Is Within You',
-            autogenerate: { directory: 'therevolutioniswithinyou' },
+            items: [{ autogenerate: { directory: 'therevolutioniswithinyou' } }],
             collapsed: true,
           },
           {
             label: 'Give Your Campaign a Tune-Up',
-            autogenerate: { directory: 'giveyourcampaignatuneup' },
+            items: [{ autogenerate: { directory: 'giveyourcampaignatuneup' } }],
             collapsed: true,
           },
         ],
